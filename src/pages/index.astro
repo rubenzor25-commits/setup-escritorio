@@ -147,8 +147,8 @@ const nav = sections.map((s) => ({ href: `#${s.cat}`, label: s.title }));
     <script>
       const eur = (n: number) => `${Math.round(n).toLocaleString('es-ES')} €`;
       const KEY = 'setup-ruben-picks';
-      const cats = ['mesas', 'monitores', 'brazos', 'macs'];
-      const labels: Record<string, string> = { mesas: 'mesa', monitores: 'pantallas', brazos: 'brazos', macs: 'Mac' };
+      const cats = ['mesas', 'monitores', 'brazos', 'oficina', 'macs'];
+      const labels: Record<string, string> = { mesas: 'mesa', monitores: 'pantallas', brazos: 'brazos', oficina: 'silla', macs: 'Mac' };
       const qtyInput = document.getElementById('chairs-qty') as HTMLInputElement;
 
       const load = () => {
@@ -186,7 +186,7 @@ const nav = sections.map((s) => ({ href: `#${s.cat}`, label: s.title }));
         document.getElementById('total-desk')!.textContent = eur(total);
         document.getElementById('total-detail')!.textContent = missing.length
           ? `Falta elegir: ${missing.join(', ')}`
-          : 'Mesa + 2 pantallas + brazos + Mac';
+          : 'Mesa + 2 pantallas + brazos + silla + Mac';
         const chair = picks.sillas ? Number(document.getElementById(picks.sillas)?.dataset.price ?? 0) : 0;
         document.getElementById('total-chairs')!.textContent = chair ? eur(chair * Number(qtyInput.value || 0)) : '—';
       };

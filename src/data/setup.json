@@ -1191,6 +1191,1195 @@
    ]
   },
   {
+   "cat": "oficina",
+   "title": "Silla de escritorio",
+   "kicker": "Giratoria · ergonómica · 50–200 €",
+   "intro": "Para 8 horas al día delante de 3 pantallas: lumbar regulable, reposabrazos ajustables, malla transpirable y ruedas que no rayen el laminado.",
+   "pick": "Mi top 3: Owlotech Summit (149,99 €), la que más ajustes tiene (reposabrazos 3D, asiento deslizante, reposacabezas); IKEA MARKUS (159 €), la apuesta segura con 10 años de garantía y que puedes probar en IKEA Torrejón; y SIHOO M18 (199,99 €), la más probada con más de 15.000 opiniones. Para gastar poco: IKEA FLINTAN con brazos (79,99 €).",
+   "items": [
+    {
+     "id": "oficina-ikea-flintan-silla-de-trabajo-con-reposabrazos-beige-silla-reposabrazo",
+     "cat": "oficina",
+     "name": "IKEA FLINTAN con reposabrazos",
+     "store": "IKEA",
+     "url": "https://www.ikea.com/es/es/p/flintan-silla-trabajo-con-reposabrazos-beige-s09424467/",
+     "image": "https://www.ikea.com/es/es/images/products/flintan-silla-trabajo-con-reposabrazos-beige__1007238_pe825958_s5.jpg",
+     "price": 79.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "fijo"
+      ],
+      [
+       "Reposabrazos",
+       "fijos"
+      ],
+      [
+       "Reposacabezas",
+       "No"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "sincronizado con tension automatica segun peso + bloqueo solo en posicion vertical"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "110 kg"
+      ],
+      [
+       "Ruedas",
+       "autofrenantes (solo ruedan con peso); material no indicado"
+      ],
+      [
+       "Garantía",
+       "10 años"
+      ],
+      [
+       "Opiniones",
+       "4.4 (725)"
+      ],
+      [
+       "Probarla en",
+       "IKEA Torrejon (XS): silla 13 uds + reposabrazos 22 uds | IKEA San Sebastian de los Reyes: silla 165, reposabrazos solo 1 | IKEA Alcorcon: silla 146, reposabrazos 0 | IKEA Ensanche de Vallecas: silla 93, reposabrazos 0 (stock hoy 18/10/2026 según API de disponibilidad IKEA (stock != unidad expuesta; confirmar en tienda))"
+      ]
+     ],
+     "pros": "Precio imbatible con malla, mecanismo sincronizado y 10 anos de garantia; ligera (14 kg); funda del asiento lavable; muy bien valorada por quien pasa muchas horas sentado.",
+     "cons": "Reposabrazos fijos (accesorio de 10 EUR); sin reposacabezas ni profundidad regulable; lumbar de 3 tiras de plastico (version nueva, alguna queja); ruedas autofrenantes (alguna opinion de ruedas que se salen).",
+     "badge": "Más barata"
+    },
+    {
+     "id": "oficina-owlotech-summit-negra-malla",
+     "cat": "oficina",
+     "name": "Owlotech Summit",
+     "store": "PcComponentes (marca Owlotech)",
+     "url": "https://www.pccomponentes.com/owlotech-summit-silla-escritorio-ergonomica-negra",
+     "image": "https://img.pccomponentes.com/articles/1083/10830573/1978-owlotech-summit-silla-escritorio-ergonomica-negra.jpg",
+     "price": 149.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable (solo altura, 3 posiciones; pieza dura tras la malla segun opiniones)"
+      ],
+      [
+       "Reposabrazos",
+       "3D"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "Sí"
+      ],
+      [
+       "Mecanismo",
+       "Mecanismo basculante con bloqueo en 4 posiciones y regulador de resistencia; reclinacion 128-135 grados (la ficha da ambas cifras)"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "120 kg"
+      ],
+      [
+       "Ruedas",
+       "PU negro 60 mm"
+      ],
+      [
+       "Opiniones",
+       "4.5 (1.883 - valoracion agregada de la gama Owlotech en PcComponentes, no solo Summit)"
+      ]
+     ],
+     "pros": "Mejor conjunto de ajustes por el precio: reposabrazos 3D, profundidad de asiento deslizante (550 mm), reposacabezas 2D, malla en respaldo, ruedas PU para laminado, 69x73x121-131 cm, 18,9 kg.",
+     "cons": "Lumbar solo en altura y algo duro; limite 120 kg; garantia no indicada en la ficha (solo 'Garantia de Solucion en 24h'); reseñas agregadas de toda la gama.",
+     "badge": "Recomendada"
+    },
+    {
+     "id": "oficina-sihoo-m102c-negra",
+     "cat": "oficina",
+     "name": "SIHOO M102C",
+     "store": "eu.sihoo.com (tienda oficial SIHOO EU)",
+     "url": "https://eu.sihoo.com/es/products/sihoo-m102-silla-de-oficina-ergonomica-soporte-lumbar-del-siguiente-nivel",
+     "image": "https://cdn.shopify.com/s/files/1/0650/2062/5110/files/M102C_34e1a246-ea8c-416f-aa82-acf528a703a0.webp?v=1790069713",
+     "price": 149.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable (independiente, 6 cm en vertical)"
+      ],
+      [
+       "Reposabrazos",
+       "3D"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "Reclinacion 110-130 grados con tension regulable (bloqueo no indicado)"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "136 kg"
+      ],
+      [
+       "Garantía",
+       "3 años"
+      ],
+      [
+       "Opiniones",
+       "4.6 (91 valoraciones en la tienda oficial)"
+      ]
+     ],
+     "pros": "Lumbar independiente regulable + reposabrazos 3D plegables (adelante/atras 4 cm, giro 29 grados) + reposacabezas 2D (35 grados, 6 cm); 136 kg; BIFMA; garantia 3 años; 30 dias de prueba; envio gratis a partir de umbral.",
+     "cons": "Pocas valoraciones (91); sin profundidad de asiento; precio tachado 299,99 es inflado; el respaldo es tela elastica tipo malla; tipo de ruedas no indicado.",
+     "badge": "Mejor lumbar"
+    },
+    {
+     "id": "oficina-ikea-markus-silla-de-trabajo-vissle-gris-oscuro",
+     "cat": "oficina",
+     "name": "IKEA MARKUS",
+     "store": "IKEA",
+     "url": "https://www.ikea.com/es/es/p/markus-silla-trabajo-vissle-gris-oscuro-70261150/",
+     "image": "https://www.ikea.com/es/es/images/products/markus-silla-trabajo-vissle-gris-oscuro__0724714_pe734597_s5.jpg",
+     "price": 159,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "fijo"
+      ],
+      [
+       "Reposabrazos",
+       "fijos"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "sincronizado + tension manual regulable + bloqueo en 3 posiciones"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "110 kg"
+      ],
+      [
+       "Ruedas",
+       "autofrenantes (se bloquean sin peso); material no indicado en ficha (IKEA vende protector KOLON 19,99 EUR)"
+      ],
+      [
+       "Garantía",
+       "10 años"
+      ],
+      [
+       "Opiniones",
+       "4.4 (2879)"
+      ],
+      [
+       "Probarla en",
+       "IKEA Torrejon (XS, C.C. Parque Corredor, Ctra. Ajalvir s/n): 14 uds | IKEA San Sebastian de los Reyes: 197 | IKEA Ensanche de Vallecas: 80 | IKEA Alcorcon: 21 (stock hoy 18/10/2026 según API de disponibilidad IKEA (stock != unidad expuesta; confirmar en tienda))"
+      ]
+     ],
+     "pros": "Respaldo alto de malla + reposacabezas integrado; mecanismo sincronizado con bloqueo; 10 anos de garantia; la mas probada del rango (2879 opiniones); un usuario de 120 kg con 8-10 h/dia durante 3 anos sin problemas.",
+     "cons": "Soporte lumbar y reposabrazos NO regulables; profundidad de asiento fija (47 cm); varias opiniones: cojin del asiento se hunde en 1-2 anos y la goma de los reposabrazos se pela al rozar la mesa.",
+     "badge": "Para probarla en IKEA"
+    },
+    {
+     "id": "oficina-sihoo-m18-negra",
+     "cat": "oficina",
+     "name": "SIHOO M18",
+     "store": "Amazon.es",
+     "url": "https://www.amazon.es/dp/B07GNDDNMW",
+     "image": "https://m.media-amazon.com/images/I/61nb9ErcVpL._AC_SL1500_.jpg",
+     "price": 199.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable (vertical y horizontal segun el fabricante)"
+      ],
+      [
+       "Reposabrazos",
+       "2D"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "Reclinacion hasta 126 grados con bloqueo"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "150 kg"
+      ],
+      [
+       "Ruedas",
+       "No especificado en Amazon (version 'Skate Wheels' PU en eu.sihoo.com a 189,99)"
+      ],
+      [
+       "Garantía",
+       "1 años"
+      ],
+      [
+       "Opiniones",
+       "4.4 (15.549)"
+      ]
+     ],
+     "pros": "La mas contrastada: 15.549 valoraciones; lumbar regulable en 2 ejes, malla, reposacabezas (10 cm / 45 grados), 150 kg, BIFMA.",
+     "cons": "Reposabrazos solo en altura (la ficha dice 2D en destacados pero el texto habla de altura), sin profundidad de asiento, garantia Amazon 1 año (la tienda oficial anuncia 3 años), altura 43-53 cm.",
+     "badge": "La más probada"
+    },
+    {
+     "id": "oficina-naspaluro-k129-con-reposacabezas-malla",
+     "cat": "oficina",
+     "name": "naspaluro K129",
+     "store": "Amazon.es",
+     "url": "https://www.amazon.es/dp/B0FLXSQN3J",
+     "image": "https://m.media-amazon.com/images/I/61GTUcJNZ+L._AC_SL1500_.jpg",
+     "price": 73.3,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable (dinamico, segmentado)"
+      ],
+      [
+       "Reposabrazos",
+       "abatibles"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "Respaldo 90-120 grados, 2 posiciones de bloqueo"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "136 kg"
+      ],
+      [
+       "Ruedas",
+       "nailon, 360 grados"
+      ],
+      [
+       "Garantía",
+       "3 años"
+      ],
+      [
+       "Opiniones",
+       "4.3 (1.228)"
+      ]
+     ],
+     "pros": "Muy barata, 136 kg, malla, reposacabezas 7 cm + 45 grados, gas SGS clase 2, garantia legal 3 años en Amazon; n.º4 en sillas de escritorio.",
+     "cons": "Reposabrazos solo abatibles (sin 3D), lumbar basico, ruedas de nylon, base de nylon, inclinacion limitada a 2 posiciones; para 8 h/dia es la mas justa.",
+     "badge": null
+    },
+    {
+     "id": "oficina-owlotech-berkeley-gris-malla",
+     "cat": "oficina",
+     "name": "Owlotech Berkeley",
+     "store": "PcComponentes (marca Owlotech)",
+     "url": "https://www.pccomponentes.com/owlotech-berkeley-silla-escritorio-ergonomica-gris",
+     "image": "https://img.pccomponentes.com/articles/1083/10830575/1532-owlotech-berkeley-silla-escritorio-ergonomica-gris.jpg",
+     "price": 79.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "fijo (soporte rigido, opiniones hablan de 3 alturas)"
+      ],
+      [
+       "Reposabrazos",
+       "abatibles"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "Mecanismo mariposa, reclinacion maxima 115 grados (sin bloqueo multiple indicado)"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "110 kg"
+      ],
+      [
+       "Ruedas",
+       "nylon negro 50 mm"
+      ],
+      [
+       "Opiniones",
+       "4.5 (1.883 - valoracion agregada de la gama Owlotech)"
+      ]
+     ],
+     "pros": "Opcion barata con respaldo de malla, reposacabezas regulable en altura y altura de asiento 46-56 cm adecuada para mesa a 72 cm.",
+     "cons": "Lumbar rigido/fijo, reposabrazos solo abatibles, 110 kg, ruedas de nylon 50 mm (menos amables con laminado), sin profundidad de asiento. Para 8 h es la mas justa.",
+     "badge": null
+    },
+    {
+     "id": "oficina-jysk-billum-silla-de-oficina-malla-negro",
+     "cat": "oficina",
+     "name": "JYSK BILLUM",
+     "store": "JYSK",
+     "url": "https://jysk.es/oficina/sillas-de-oficina/silla-de-oficina-billum-malla-negro",
+     "image": "https://cdn1.jysk.com/getimage/wd3.large/256796",
+     "price": 99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "no"
+      ],
+      [
+       "Reposabrazos",
+       "fijos"
+      ],
+      [
+       "Reposacabezas",
+       "No"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "inclinacion continua (tipo sincro) con tension regulable + bloqueo erguido"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "110 kg"
+      ],
+      [
+       "Ruedas",
+       "PU / poliamida con freno de seguridad"
+      ],
+      [
+       "Garantía",
+       "3 años"
+      ],
+      [
+       "Opiniones",
+       "4.0 (2451)"
+      ],
+      [
+       "Probarla en",
+       "JYSK San Fernando de Henares (C.C. Camino Real); exposicion/stock no verificado; la web indica 'devoluciones ilimitadas, sin limite de tiempo' en cualquier tienda JYSK (condiciones no verificadas)"
+      ]
+     ],
+     "pros": "Muy probada (2451 opiniones, 4.0); malla; tension de inclinacion regulable; ruedas PU; solo 99 EUR.",
+     "cons": "Sin soporte lumbar anunciado, sin reposacabezas, reposabrazos fijos, fondo fijo 47 cm; 110 kg; equipamiento ergonomico basico para 8 h.",
+     "badge": null
+    },
+    {
+     "id": "oficina-lidl-livarno-home-silla-de-oficina-giratoria-con-reposacabezas-regulab",
+     "cat": "oficina",
+     "name": "LIVARNO HOME (Lidl)",
+     "store": "Lidl (solo online)",
+     "url": "https://www.lidl.es/p/livarno-home-silla-de-oficina-giratoria-con-cabecero-regulable/p100342925",
+     "image": "https://www.lidl.es/assets/gcp4cd67738fbf14176855179972178d109.jpg",
+     "price": 109,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Reposabrazos",
+       "3D"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Mecanismo",
+       "bloqueo en 3 posiciones"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Garantía",
+       "3 años"
+      ],
+      [
+       "Opiniones",
+       "3.6 (14)"
+      ],
+      [
+       "Probarla en",
+       "NO probable en tienda: la ficha marca 'OnlineOnly' (solo venta online)"
+      ]
+     ],
+     "pros": "Reposabrazos 3D + reposacabezas inclinable/regulable + tela/malla por 109 EUR.",
+     "cons": "Solo online (no se puede probar); nota 3.6 con 14 opiniones; sin datos de carga maxima, lumbar ni ruedas; devolucion por la via online.",
+     "badge": null
+    },
+    {
+     "id": "oficina-songmics-obn066bh01-negra-malla-reposacabezas",
+     "cat": "oficina",
+     "name": "SONGMICS con reposacabezas",
+     "store": "Amazon.es",
+     "url": "https://www.amazon.es/dp/B0F6L79CXS",
+     "image": "https://m.media-amazon.com/images/I/71Q6X3dfbrL._AC_SL1500_.jpg",
+     "price": 109.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable"
+      ],
+      [
+       "Reposabrazos",
+       "altura (1D, 7 cm)"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "Respaldo en S que bloquea entre 90 y 135 grados"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "150 kg"
+      ],
+      [
+       "Opiniones",
+       "4.2 (1.342)"
+      ]
+     ],
+     "pros": "Malla doble capa, cojin de espuma de 7 cm, 150 kg, base de metal, cilindro clase 3, reposacabezas ajustable, buena relacion calidad-precio.",
+     "cons": "Reposabrazos solo en altura; sin profundidad de asiento; ruedas y garantia no indicadas en la ficha (legal 3 años en España).",
+     "badge": null
+    },
+    {
+     "id": "oficina-flexispot-bs3-negra-azul",
+     "cat": "oficina",
+     "name": "FlexiSpot BS3",
+     "store": "FlexiSpot.es",
+     "url": "https://www.flexispot.es/silla-oficina-bs3.html",
+     "image": "https://s3.springbeetle.eu/prod-eu-s3/trantor/attachments/ES/BS3-NEW-PRO.png",
+     "price": 119.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable (dinamico, altura)"
+      ],
+      [
+       "Reposabrazos",
+       "altura (1D)"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "Respaldo 90-130 grados, 3 niveles de inclinacion, bloqueo/desbloqueo con la palanca central"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "120 kg"
+      ]
+     ],
+     "pros": "Precio ajustado para lumbar dinamico regulable + reposacabezas 2D + 3 niveles de inclinacion; percha integrada; altura 45,5-57 cm.",
+     "cons": "Reposabrazos solo en altura; 120 kg; recomendada para 155-180 cm; sin profundidad de asiento; sin valoraciones visibles; garantia 2 años segun fuente alemana (no confirmada en ES).",
+     "badge": null
+    },
+    {
+     "id": "oficina-ikea-smorkull-silla-de-trabajo-con-reposabrazos-grasnas-gris-oscuro",
+     "cat": "oficina",
+     "name": "IKEA SMÖRKULL",
+     "store": "IKEA",
+     "url": "https://www.ikea.com/es/es/p/smorkull-silla-trabajo-con-reposabrazos-grasnas-gris-oscuro-80503436/",
+     "image": "https://www.ikea.com/es/es/images/products/smorkull-silla-trabajo-con-reposabrazos-grasnas-gris-oscuro__1187096_pe899031_s5.jpg",
+     "price": 129,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "fijo"
+      ],
+      [
+       "Reposabrazos",
+       "1D"
+      ],
+      [
+       "Reposacabezas",
+       "No"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "sincronizado con tension automatica + bloqueo en 3 posiciones"
+      ],
+      [
+       "Malla",
+       "No"
+      ],
+      [
+       "Carga máx.",
+       "110 kg"
+      ],
+      [
+       "Ruedas",
+       "autofrenantes; una opinion dice 'tipo goma' y respetuosas con el suelo"
+      ],
+      [
+       "Garantía",
+       "10 años"
+      ],
+      [
+       "Opiniones",
+       "4.2 (131)"
+      ],
+      [
+       "Probarla en",
+       "IKEA Torrejon (XS): 5 uds | IKEA San Sebastian de los Reyes: 20 | IKEA Alcorcon: 8 | IKEA Ensanche de Vallecas: 1 (stock hoy 18/10/2026 según API de disponibilidad IKEA (stock != unidad expuesta; confirmar en tienda))"
+      ]
+     ],
+     "pros": "Respaldo alto con apoyo de cuello/cabeza; reposabrazos regulables en altura (1D); sincro + bloqueo de 3 posiciones; funda lavable; 10 anos de garantia.",
+     "cons": "Tapizado de tela (mas calor en 8 h que malla); una opinion de reposabrazos incomodos y otra de pistón que se baja (2 sillas); pocas opiniones (131).",
+     "badge": null
+    },
+    {
+     "id": "oficina-jysk-karlslunde-silla-de-oficina-malla-negro-tela-negro",
+     "cat": "oficina",
+     "name": "JYSK KARLSLUNDE",
+     "store": "JYSK",
+     "url": "https://jysk.es/oficina/sillas-de-oficina/silla-de-oficina-karlslunde-malla-negro-tela-negro",
+     "image": "https://cdn1.jysk.com/getimage/wd3.large/284522",
+     "price": 149,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable"
+      ],
+      [
+       "Reposabrazos",
+       "fijos"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "inclinacion continua con tension regulable + bloqueo erguido"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "110 kg"
+      ],
+      [
+       "Ruedas",
+       "PU / poliamida con freno de seguridad"
+      ],
+      [
+       "Garantía",
+       "3 años"
+      ],
+      [
+       "Opiniones",
+       "5.0 (3)"
+      ],
+      [
+       "Probarla en",
+       "JYSK San Fernando de Henares (C.C. Camino Real); exposicion/stock no verificado"
+      ]
+     ],
+     "pros": "Respaldo de malla con soporte lumbar regulable en altura y reposacabezas regulable por 149 EUR; ruedas PU.",
+     "cons": "Solo 3 opiniones; chica: fondo de asiento 44 cm y respaldo hasta 110 cm (puede quedar corta si eres alto); reposabrazos fijos; asiento de tela; 110 kg.",
+     "badge": null
+    },
+    {
+     "id": "oficina-mediamarkt-newskill-nue-silla-gaming-ergonomica-malla-negro-azul",
+     "cat": "oficina",
+     "name": "Newskill Nue",
+     "store": "MediaMarkt",
+     "url": "https://www.mediamarkt.es/es/product/_silla-gaming-newskill-nue-reposabrazos-3d-ajustable-en-altura-anchura-y-profundidad-carga-max-150-kg-malla-transpirable-premium-negroazul-1607579.html",
+     "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_180398896?x=500&y=500&format=jpg&quality=80&sp=yes&strip=yes&trim&ex=500&ey=500&align=center&resizesource&unsharp=1.5x1+0.7+0.02&cox=0&coy=0&cdx=500&cdy=500",
+     "price": 149,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable"
+      ],
+      [
+       "Reposabrazos",
+       "3D"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "reclinado y balanceo con tension regulable + bloqueo (3 posiciones segun opiniones)"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "150 kg"
+      ],
+      [
+       "Ruedas",
+       "PU (ficha MediaMarkt)"
+      ],
+      [
+       "Garantía",
+       "3 años"
+      ],
+      [
+       "Opiniones",
+       "4.5 (6)"
+      ],
+      [
+       "Probarla en",
+       "MediaMarkt Alcala de Henares (P.C. La Dehesa, C/ Humanes 11) y MediaMarkt Torrejon (Parque Corredor, formato Xpress); la web dice 'Recogida en tienda: consultar disponibilidad' -> confirmar por telefono si hay unidad expuesta"
+      ]
+     ],
+     "pros": "Mayor ajustabilidad por precio: malla en asiento y respaldo, lumbar regulable, reposabrazos 3D, reposacabezas (ficha PcComponentes: 2D), tension regulable, 150 kg, ruedas PU, fondo 50 cm.",
+     "cons": "Marca gaming con muy pocas opiniones en MediaMarkt (6); segun opiniones en PcComponentes el respaldo solo tiene 3 posiciones y el reposacabezas queda bajo/lejos segun estatura; garantia solo legal; no verificada la exposicion en tienda.",
+     "badge": null
+    },
+    {
+     "id": "oficina-flexispot-bs4-malla-completa",
+     "cat": "oficina",
+     "name": "FlexiSpot BS4",
+     "store": "FlexiSpot.es",
+     "url": "https://www.flexispot.es/silla-de-oficina-bs4",
+     "image": "https://s3.springbeetle.eu/prod-eu-s3/trantor/attachments/ES/BS4-NEW-PRO.png",
+     "price": 149.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable (dinamico, altura)"
+      ],
+      [
+       "Reposabrazos",
+       "3D"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "Respaldo con 21 grados de inclinacion (bloqueo no confirmado)"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "136 kg"
+      ]
+     ],
+     "pros": "Malla en asiento, respaldo y reposacabezas (la mas fresca del grupo), reposabrazos 3D de PU, lumbar dinamico regulable, 136 kg, rango de altura amplio 46-58 cm.",
+     "cons": "Sin valoraciones visibles (Yotpo no carga sin JS); especificaciones tomadas de ofertas alemanas (dealdoktor/mein-deal), no de la ficha ES; sin profundidad de asiento; ruedas y garantia no confirmadas.",
+     "badge": null
+    },
+    {
+     "id": "oficina-ergoking-supra-ofisillas-malla-tela",
+     "cat": "oficina",
+     "name": "Ergoking SUPRA",
+     "store": "Ofisillas.es",
+     "url": "https://www.ofisillas.es/silla-ergonomica-supra-reposacabezas-soporte-lumbar-adaptable-uso-8h-tela-y-malla-negro.html",
+     "image": "https://www.ofisillas.es/images/product/1/large/pl_1_1_11411.jpg",
+     "price": 157.18,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable (adaptable al peso corporal; no se explica el mecanismo)"
+      ],
+      [
+       "Reposabrazos",
+       "altura (1D, 18-26 cm)"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "Basculante: balanceo libre o bloqueo en posicion original, dureza regulable"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "140 kg"
+      ],
+      [
+       "Ruedas",
+       "11x60 mm multisuperficie (material no indicado)"
+      ],
+      [
+       "Garantía",
+       "3 años"
+      ]
+     ],
+     "pros": "Malla en respaldo y reposacabezas, asiento acolchado de tela, 140 kg, UNE EN 1335 (TUV), garantia 3 años, envio gratis y entrega en 24-48 h; tienda con nota 9,8/10 (2.500+ valoraciones eKomi, de la tienda).",
+     "cons": "Sin valoraciones del producto; reposabrazos solo en altura; base de plastico reforzado; inclinacion sin posiciones multiples; sin profundidad de asiento.",
+     "badge": null
+    },
+    {
+     "id": "oficina-conforama-unisit-sincro-simpel-silla-de-oficina-negro",
+     "cat": "oficina",
+     "name": "Unisit Sincro Simpel",
+     "store": "Conforama",
+     "url": "https://www.conforama.es/silla-de-oficina-sincro-simpel",
+     "image": "https://media.conforama.es/_prod_/imagenes/media/127474_01.jpg?w=650&h=551&func=fit&bg_color=fff&fit_enlarge=1",
+     "price": 169,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "fijo"
+      ],
+      [
+       "Reposabrazos",
+       "ajustables (tipo no indicado)"
+      ],
+      [
+       "Reposacabezas",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "mecanismo sincronizado (sincro)"
+      ],
+      [
+       "Malla",
+       "No"
+      ],
+      [
+       "Carga máx.",
+       "120 kg"
+      ],
+      [
+       "Ruedas",
+       "nylon"
+      ],
+      [
+       "Garantía",
+       "3 años"
+      ],
+      [
+       "Probarla en",
+       "Conforama Alcala de Henares (C/ Humanes 1, C.C. La Dehesa; L-S 10-22 h); web indica 'Disponibilidad alta'; unidad expuesta no verificada"
+      ]
+     ],
+     "pros": "Silla de oficina 'de las de verdad' (Unisit): sincro, respaldo alto con lumbar, reposabrazos ajustables, EN1335 + TUV, descrita para jornadas de 8-10 h; 120 kg; tienda propia en Alcala (La Dehesa).",
+     "cons": "Sin malla (espuma + tela, mas calor); sin reposacabezas; sin opiniones online; ficha pobre y contradictoria (marca 'Ergonomico: No' y 'Reclinable: No'); fondo 46 cm segun ficha y sin rango de altura de asiento publicado.",
+     "badge": null
+    },
+    {
+     "id": "oficina-owlotech-regal-negra-malla",
+     "cat": "oficina",
+     "name": "Owlotech Regal",
+     "store": "PcComponentes (marca Owlotech)",
+     "url": "https://www.pccomponentes.com/owlotech-regal-silla-escritorio-ergonomica-mesh-negra",
+     "image": "https://img.pccomponentes.com/articles/1083/10830572/1954-owlotech-regal-silla-escritorio-ergonomica-mesh-negra-comprar.jpg",
+     "price": 169.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable (la ficha dice ajustable; opiniones hablan de 3 alturas y otra pregunta dice fijo - contradictorio)"
+      ],
+      [
+       "Reposabrazos",
+       "4D"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "Sí"
+      ],
+      [
+       "Mecanismo",
+       "Basculante con bloqueo en 4 posiciones y regulador de resistencia; hasta 135 grados"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "120 kg"
+      ],
+      [
+       "Ruedas",
+       "PU negro 60 mm"
+      ],
+      [
+       "Opiniones",
+       "4.5 (1.883 - valoracion agregada de la gama Owlotech, no solo Regal)"
+      ]
+     ],
+     "pros": "Reposabrazos 4D, profundidad de asiento regulable (510 mm), asiento Y respaldo de malla, base de aluminio, ruedas PU 60 mm, reposacabezas 2D.",
+     "cons": "Altura de asiento maxima 47 cm: queda baja para personas altas con mesa a 72 cm; lumbar dudoso (opiniones: plastico semiduro); 120 kg; garantia no indicada.",
+     "badge": null
+    },
+    {
+     "id": "oficina-ikea-matchspel-silla-gaming-bomstad-gris-claro",
+     "cat": "oficina",
+     "name": "IKEA MATCHSPEL",
+     "store": "IKEA",
+     "url": "https://www.ikea.com/es/es/p/matchspel-silla-gaming-bomstad-gris-claro-90571528/",
+     "image": "https://www.ikea.com/es/es/images/products/matchspel-silla-gaming-bomstad-gris-claro__1248931_pe923288_s5.jpg",
+     "price": 189,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "fijo"
+      ],
+      [
+       "Reposabrazos",
+       "2D"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "sincronizado + bloqueo en 4 posiciones"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "110 kg"
+      ],
+      [
+       "Ruedas",
+       "autofrenantes; material no indicado"
+      ],
+      [
+       "Opiniones",
+       "3.9 (479)"
+      ],
+      [
+       "Probarla en",
+       "IKEA Torrejon (XS): 8 uds | IKEA San Sebastian de los Reyes: 0 | IKEA Alcorcon: 0 | Vallecas: sin dato (stock hoy 18/10/2026 según API de disponibilidad IKEA (stock != unidad expuesta; confirmar en tienda))"
+      ]
+     ],
+     "pros": "Unica IKEA del rango con malla + reposacabezas ajustable + reposabrazos 2D (altura y anchura); estructura de metal, poco plastico; solo 8 uds. en Torrejon, la mas cercana.",
+     "cons": "Asiento corto (48 cm de fondo) y de polipiel (calor en verano; alguna opinion de que se pela tras ~3 anos); nota baja (3.9); lumbar fijo; sin garantia comercial indicada; es tipo gaming.",
+     "badge": null
+    },
+    {
+     "id": "oficina-sihoo-m59as-negra-gris",
+     "cat": "oficina",
+     "name": "SIHOO M59AS",
+     "store": "eu.sihoo.com (tienda oficial SIHOO EU)",
+     "url": "https://eu.sihoo.com/es/products/sihoo-m59as-ergonomic-office-chair-with-dual-section-backrest-3d-flip-up-armrests",
+     "image": "https://cdn.shopify.com/s/files/1/0650/2062/5110/files/M59AS_fa23c861-aee0-460d-b79b-5e63658db3d5.webp?v=1790060861",
+     "price": 199.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable (respaldo de doble seccion que se adapta; la ficha no detalla ajuste)"
+      ],
+      [
+       "Reposabrazos",
+       "3D"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "No detallado en la ficha"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "150 kg"
+      ],
+      [
+       "Garantía",
+       "3 años"
+      ],
+      [
+       "Opiniones",
+       "4.4 (216 valoraciones en la tienda oficial)"
+      ]
+     ],
+     "pros": "Reposabrazos 3D plegables, reposacabezas de doble articulacion, respaldo de dos secciones, 150 kg, altura 46,5-56,5 cm.",
+     "cons": "Profundidad de asiento FIJA de solo 43,5 cm (corta para altos); lumbar poco detallado; precio justo en el limite de 200 €; precio tachado 339,99 inflado.",
+     "badge": null
+    },
+    {
+     "id": "oficina-hbada-p5-negra-aluminio",
+     "cat": "oficina",
+     "name": "Hbada P5",
+     "store": "Amazon.es",
+     "url": "https://www.amazon.es/dp/B0CH7RBQQ7",
+     "image": "https://m.media-amazon.com/images/I/61L8eCtWCFL._AC_SL1500_.jpg",
+     "price": 199.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "regulable (altura y profundidad, '4 direcciones')"
+      ],
+      [
+       "Reposabrazos",
+       "altura (1D, 8,5 cm)"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "Inclinacion 135 grados (2 posiciones de bloqueo)"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "150 kg"
+      ],
+      [
+       "Opiniones",
+       "4.1 (551)"
+      ]
+     ],
+     "pros": "Lumbar regulable en altura Y profundidad, cojin de espuma viscoelastica, reposapies integrado, reposacabezas 10 cm + 40 grados, 150 kg, certificada SGS/TUV.",
+     "cons": "Reposabrazos solo en altura; valoracion 4,1; precio al limite de 200 €; ruedas y garantia no indicadas.",
+     "badge": null
+    },
+    {
+     "id": "oficina-jysk-varpelev-silla-de-oficina-malla-negro-negro",
+     "cat": "oficina",
+     "name": "JYSK VARPELEV",
+     "store": "JYSK",
+     "url": "https://jysk.es/oficina/sillas-de-oficina/silla-de-oficina-varpelev-malla-negro-negro",
+     "image": "https://cdn1.jysk.com/getimage/wd3.large/237964",
+     "price": 200,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Lumbar",
+       "fijo"
+      ],
+      [
+       "Reposabrazos",
+       "1D"
+      ],
+      [
+       "Reposacabezas",
+       "Sí"
+      ],
+      [
+       "Fondo asiento regulable",
+       "No"
+      ],
+      [
+       "Mecanismo",
+       "inclinacion continua (tipo sincro) con tension regulable + bloqueo en varias posiciones + bloqueo erguido"
+      ],
+      [
+       "Malla",
+       "Sí"
+      ],
+      [
+       "Carga máx.",
+       "110 kg"
+      ],
+      [
+       "Ruedas",
+       "PU con freno de seguridad"
+      ],
+      [
+       "Garantía",
+       "3 años"
+      ],
+      [
+       "Opiniones",
+       "4.3 (165)"
+      ],
+      [
+       "Probarla en",
+       "JYSK San Fernando de Henares (C.C. Camino Real, ~15 km de Alcala; JYSK tiene 15 tiendas en la Comunidad de Madrid); exposicion/stock del modelo no verificado (selector de tienda en jysk.es); la web indica 'devoluciones ilimitadas, sin limite de tiempo' en cualquier tienda JYSK (condiciones no verificadas)"
+      ]
+     ],
+     "pros": "La mas completa del rango en una tienda generalista: malla en asiento y respaldo, reposacabezas regulable, reposabrazos 1D, tension de inclinacion regulable, bloqueos, ruedas PU (suaves con laminado).",
+     "cons": "Precio en el limite (200 EUR) y la oferta caduca el 21/10 (normal 249); lumbar fijo (no regulable); reposabrazos solo en altura; fondo de asiento fijo 50 cm; 110 kg.",
+     "badge": null
+    }
+   ]
+  },
+  {
    "cat": "macs",
    "title": "Mac",
    "kicker": "Mac mini o Mac Studio · hasta 3.100 €",

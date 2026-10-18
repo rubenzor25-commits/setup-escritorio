@@ -1,4 +1,4 @@
-export type Cat = 'mesas' | 'monitores' | 'brazos' | 'sillas' | 'macs';
+export type Cat = 'mesas' | 'monitores' | 'brazos' | 'oficina' | 'sillas' | 'macs';
 
 export interface Offer {
   store: string;
