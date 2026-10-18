@@ -1,0 +1,438 @@
+---
+import '@fontsource/montserrat/300.css';
+import '@fontsource/montserrat/400.css';
+import '@fontsource/montserrat/500.css';
+import '@fontsource/quicksand/500.css';
+import '@fontsource/quicksand/600.css';
+import '@fontsource/quicksand/700.css';
+import '../styles/global.css';
+
+import ItemCard from '../components/ItemCard.astro';
+import data from '../data/setup.json';
+import type { Section } from '../lib/types';
+
+interface Table {
+  columns: string[];
+  rows: string[][];
+}
+const sections = data.sections as Section[];
+const compat = data.compat as { title: string; text: string }[];
+const macTable = (data.macTable ?? null) as Table | null;
+const macVerdict = (data.macVerdict ?? null) as string | null;
+const checked = data.checked as string;
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const title = 'Setup de escritorio — mesa, pantallas, brazos, sillas y Mac';
+const desk = sections.filter((s) => s.cat !== 'sillas');
+const salon = sections.filter((s) => s.cat === 'sillas');
+const nav = sections.map((s) => ({ href: `#${s.cat}`, label: s.title }));
+---
+
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content="Opciones con precio y enlace para montar un setup minimalista: mesa elevable, dos pantallas, brazos 2+1, Mac y sillas giratorias." />
+    <meta name="robots" content="noindex" />
+    <link rel="icon" href={`${base}favicon.svg`} type="image/svg+xml" />
+    <meta name="theme-color" content="#ffffff" />
+  </head>
+  <body>
+    <header class="top">
+      <a class="brand" href="#inicio">Setup <span>Rubén</span></a>
+      <nav class="top__nav" aria-label="Secciones">
+        {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+        <a href="#encaja">¿Encaja?</a>
+      </nav>
+    </header>
+
+    <main id="inicio">
+      <section class="hero container">
+        <p class="kicker">Mesa elevable · 3 pantallas · Mac · Salón</p>
+        <h1 class="section-title hero__title">Mi setup</h1>
+        <p class="hero__lead">
+          El MSI ultrapanorámico de 40" arriba, dos pantallas iguales debajo, todo en brazos sobre una mesa elevable
+          (preparada para cinta de andar) y con los cables escondidos. Y, aparte, sillas giratorias para el salón.
+        </p>
+        <p class="hero__sub">
+          Pulsa <b>Elegir</b> en una opción de cada apartado y abajo se va sumando el presupuesto. Precios consultados el
+          {' '}{checked}; pueden cambiar.
+        </p>
+      </section>
+
+      {
+        desk.map((s) => (
+          <section id={s.cat} class="container block" aria-labelledby={`${s.cat}-t`}>
+            <p class="kicker">{s.kicker}</p>
+            <h2 class="section-title" id={`${s.cat}-t`}>{s.title}</h2>
+            <p class="block__intro">{s.intro}</p>
+            {s.pick && <p class="block__pick">{s.pick}</p>}
+            {s.cat === 'macs' && macTable && (
+              <div class="table-wrap">
+                <table>
+                  <thead>
+                    <tr>{macTable.columns.map((c) => <th scope="col">{c}</th>)}</tr>
+                  </thead>
+                  <tbody>
+                    {macTable.rows.map((r) => (
+                      <tr>
+                        {r.map((c, i) => (i === 0 ? <th scope="row">{c}</th> : <td>{c}</td>))}
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+            {s.cat === 'macs' && macVerdict && <p class="verdict">{macVerdict}</p>}
+            <div class="grid">
+              {s.items.map((it) => <ItemCard item={it} />)}
+            </div>
+          </section>
+        ))
+      }
+
+      <section id="encaja" class="container block" aria-labelledby="encaja-t">
+        <p class="kicker">Peso · medidas · conexiones</p>
+        <h2 class="section-title" id="encaja-t">¿Encaja todo?</h2>
+        <div class="compat">
+          {
+            compat.map((c) => (
+              <div class="compat__item">
+                <h3>{c.title}</h3>
+                <p>{c.text}</p>
+              </div>
+            ))
+          }
+        </div>
+      </section>
+
+      {
+        salon.map((s) => (
+          <section id={s.cat} class="container block" aria-labelledby={`${s.cat}-t`}>
+            <p class="kicker">{s.kicker}</p>
+            <h2 class="section-title" id={`${s.cat}-t`}>{s.title}</h2>
+            <p class="block__intro">{s.intro}</p>
+            {s.pick && <p class="block__pick">{s.pick}</p>}
+            <div class="grid">
+              {s.items.map((it) => <ItemCard item={it} />)}
+            </div>
+          </section>
+        ))
+      }
+    </main>
+
+    <aside class="total" aria-label="Presupuesto" aria-live="polite">
+      <div class="total__inner">
+        <div class="total__desk">
+          <span class="total__label">Setup</span>
+          <strong id="total-desk">0 €</strong>
+          <span class="total__detail" id="total-detail">Elige una opción de cada apartado</span>
+        </div>
+        <div class="total__chairs">
+          <label>Sillas <input id="chairs-qty" type="number" min="0" max="12" value="4" inputmode="numeric" /></label>
+          <strong id="total-chairs">0 €</strong>
+        </div>
+      </div>
+    </aside>
+
+    <footer class="foot">
+      <p>Investigación hecha con varios agentes de IA a la vez para Rubén.</p>
+      <p class="foot__small">
+        Precios y especificaciones consultados el {checked} en la web de cada tienda o fabricante; pueden cambiar.
+        Comprueba stock y medidas antes de comprar. Las imágenes y enlaces son de cada tienda.
+      </p>
+    </footer>
+
+    <script>
+      const eur = (n: number) => `${Math.round(n).toLocaleString('es-ES')} €`;
+      const KEY = 'setup-ruben-picks';
+      const cats = ['mesas', 'monitores', 'brazos', 'macs'];
+      const labels: Record<string, string> = { mesas: 'mesa', monitores: 'pantallas', brazos: 'brazos', macs: 'Mac' };
+      const qtyInput = document.getElementById('chairs-qty') as HTMLInputElement;
+
+      const load = () => {
+        try {
+          return JSON.parse(localStorage.getItem(KEY) ?? '{}') as Record<string, string>;
+        } catch {
+          return {};
+        }
+      };
+      const save = (v: Record<string, string>) => {
+        try {
+          localStorage.setItem(KEY, JSON.stringify(v));
+        } catch {
+          /* sin almacenamiento */
+        }
+      };
+
+      const priceOf = (id: string) => {
+        const el = document.getElementById(id);
+        return el ? Number(el.dataset.price) * Number(el.dataset.qty) : 0;
+      };
+
+      const update = () => {
+        const picks: Record<string, string> = {};
+        document.querySelectorAll<HTMLInputElement>('.pick input:checked').forEach((i) => {
+          picks[i.name.replace('pick-', '')] = i.value;
+        });
+        save({ ...picks, qty: qtyInput.value });
+        let total = 0;
+        const missing: string[] = [];
+        for (const c of cats) {
+          if (picks[c]) total += priceOf(picks[c]);
+          else if (document.querySelector(`[name=pick-${c}]`)) missing.push(labels[c]);
+        }
+        document.getElementById('total-desk')!.textContent = eur(total);
+        document.getElementById('total-detail')!.textContent = missing.length
+          ? `Falta elegir: ${missing.join(', ')}`
+          : 'Mesa + 2 pantallas + brazos + Mac';
+        const chair = picks.sillas ? Number(document.getElementById(picks.sillas)?.dataset.price ?? 0) : 0;
+        document.getElementById('total-chairs')!.textContent = chair ? eur(chair * Number(qtyInput.value || 0)) : '—';
+      };
+
+      // Si la foto de una tienda no carga, se quita el hueco en vez de dejarlo vacío
+      document.querySelectorAll<HTMLImageElement>('.item__media img').forEach((img) => {
+        const drop = () => img.closest('.item__media')?.remove();
+        if (img.complete && img.naturalWidth === 0) drop();
+        else img.addEventListener('error', drop);
+      });
+
+      const saved = load();
+      if (saved.qty) qtyInput.value = saved.qty;
+      for (const [cat, id] of Object.entries(saved)) {
+        const input = document.querySelector<HTMLInputElement>(`input[name=pick-${cat}][value="${id}"]`);
+        if (input) input.checked = true;
+      }
+      document.addEventListener('change', (e) => {
+        if ((e.target as Element).matches('.pick input, #chairs-qty')) update();
+      });
+      qtyInput.addEventListener('input', update);
+      update();
+    </script>
+
+    <style>
+      .top {
+        position: sticky;
+        top: 0;
+        z-index: 20;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        padding: 18px clamp(16px, 3vw, 36px);
+        background: #fff;
+        border-bottom: 1px solid #f0f0f0;
+      }
+      .brand {
+        font-family: var(--font-display);
+        font-size: 13px;
+        letter-spacing: 0.3em;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+      .brand span {
+        color: var(--muted);
+      }
+      .top__nav {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        gap: 6px clamp(12px, 2.4vw, 28px);
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.24em;
+        text-transform: uppercase;
+      }
+      .top__nav a:hover {
+        text-decoration: underline;
+        text-underline-offset: 4px;
+      }
+      @media (max-width: 720px) {
+        .top {
+          flex-direction: column;
+          gap: 8px;
+          padding-block: 12px;
+        }
+        .top__nav {
+          justify-content: center;
+          letter-spacing: 0.14em;
+        }
+      }
+      .kicker {
+        margin: 0;
+        text-align: center;
+        font-size: 12px;
+        letter-spacing: 0.3em;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+      .hero {
+        text-align: center;
+        padding-top: clamp(32px, 6vw, 72px);
+      }
+      .hero__title {
+        font-size: clamp(26px, 5vw, 52px);
+        margin: 16px 0 26px;
+      }
+      .hero__lead {
+        max-width: 720px;
+        margin: 0 auto 12px;
+        font-size: clamp(17px, 2vw, 20px);
+      }
+      .hero__sub {
+        max-width: 640px;
+        margin: 0 auto;
+        color: var(--ink-soft);
+      }
+      .block {
+        padding-top: clamp(24px, 4vw, 40px);
+        scroll-margin-top: 70px;
+      }
+      .block .section-title {
+        margin-top: 12px;
+      }
+      .block__intro,
+      .block__pick {
+        max-width: 760px;
+        margin: -8px auto 18px;
+        text-align: center;
+        color: var(--ink-soft);
+      }
+      .block__pick {
+        margin-top: 0;
+        padding: 12px 18px;
+        background: var(--soft);
+        color: var(--ink);
+      }
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr));
+        gap: clamp(20px, 3vw, 32px);
+        margin-top: 28px;
+      }
+      .table-wrap {
+        overflow-x: auto;
+        margin: 24px 0 8px;
+        border: 1px solid var(--line);
+      }
+      table {
+        width: 100%;
+        min-width: 720px;
+        border-collapse: collapse;
+        font-size: 13px;
+      }
+      th,
+      td {
+        padding: 10px 12px;
+        text-align: left;
+        border-bottom: 1px solid var(--line);
+        vertical-align: top;
+      }
+      thead th {
+        font-family: var(--font-display);
+        font-weight: 500;
+        font-size: 11px;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        background: var(--soft);
+      }
+      tbody th {
+        font-weight: 700;
+        white-space: nowrap;
+      }
+      .verdict {
+        max-width: 860px;
+        margin: 18px auto 0;
+        padding: 16px 20px;
+        border-left: 3px solid var(--accent);
+        background: var(--soft);
+        line-height: 1.6;
+      }
+      .compat {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+        gap: 20px 32px;
+      }
+      .compat__item h3 {
+        margin: 0 0 8px;
+        font-family: var(--font-display);
+        font-weight: 400;
+        font-size: 14px;
+        letter-spacing: 0.2em;
+        text-transform: uppercase;
+        padding-bottom: 8px;
+        border-bottom: 1px solid var(--ink);
+      }
+      .compat__item p {
+        margin: 0;
+        font-size: 15px;
+        color: var(--ink-soft);
+      }
+      .total {
+        position: sticky;
+        bottom: 0;
+        z-index: 15;
+        background: var(--ink);
+        color: #fff;
+      }
+      .total__inner {
+        max-width: var(--maxw);
+        margin: 0 auto;
+        padding: 12px var(--gutter);
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: space-between;
+        gap: 8px 24px;
+      }
+      .total__desk,
+      .total__chairs {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: baseline;
+        gap: 4px 12px;
+      }
+      .total__label,
+      .total__chairs label {
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.22em;
+        text-transform: uppercase;
+        color: #bbb;
+      }
+      .total strong {
+        font-family: var(--font-display);
+        font-weight: 500;
+        font-size: 22px;
+      }
+      .total__detail {
+        font-size: 12px;
+        color: #bbb;
+      }
+      .total__chairs input {
+        width: 52px;
+        margin-left: 6px;
+        padding: 4px 6px;
+        border: 1px solid #555;
+        background: #222;
+        color: #fff;
+      }
+      .foot {
+        margin-top: clamp(56px, 9vw, 110px);
+        padding: 36px var(--gutter);
+        text-align: center;
+        border-top: 1px solid #f0f0f0;
+      }
+      .foot p {
+        margin: 0 0 8px;
+      }
+      .foot__small {
+        max-width: 640px;
+        margin-inline: auto !important;
+        font-size: 12px;
+        color: var(--muted);
+      }
+    </style>
+  </body>
+</html>

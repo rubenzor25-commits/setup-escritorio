@@ -1,0 +1,209 @@
+---
+import type { Item } from '../lib/types';
+
+interface Props {
+  item: Item;
+}
+const { item } = Astro.props;
+const eur = (n: number) =>
+  `${n.toLocaleString('es-ES', { minimumFractionDigits: Number.isInteger(n) ? 0 : 2, maximumFractionDigits: 2 })} €`;
+---
+
+<article class="item" id={item.id} data-cat={item.cat} data-price={item.price ?? 0} data-qty={item.qty} data-name={item.name}>
+  {
+    item.image && (
+      <a class="item__media" href={item.url} target="_blank" rel="noopener" aria-label={`Ver ${item.name} en ${item.store}`}>
+        <img src={item.image} alt={item.name} loading="lazy" decoding="async" referrerpolicy="no-referrer" />
+      </a>
+    )
+  }
+  <div class="item__body">
+    <p class="item__top">
+      <span class="item__store">{item.store}</span>
+      {item.badge && <span class="item__badge">{item.badge}</span>}
+    </p>
+    <h3 class="item__name">{item.name}</h3>
+    {
+      item.price != null && (
+        <p class="item__price">
+          <strong>{eur(item.price)}</strong>
+          {item.qty > 1 && <span> / unidad · {eur(item.price * item.qty)} los {item.qty}</span>}
+          {item.priceNote && <small>{item.priceNote}</small>}
+        </p>
+      )
+    }
+    {
+      item.specs.length > 0 && (
+        <dl class="item__specs">
+          {item.specs.map(([k, v]) => (
+            <>
+              <dt>{k}</dt>
+              <dd>{v}</dd>
+            </>
+          ))}
+        </dl>
+      )
+    }
+    {item.pros && <p class="item__pros"><b>A favor:</b> {item.pros}</p>}
+    {item.cons && <p class="item__cons"><b>En contra:</b> {item.cons}</p>}
+    {
+      item.offers && item.offers.length > 0 && (
+        <p class="item__offers">
+          También en:{' '}
+          {item.offers.map((o, i) => (
+            <>
+              {i > 0 && ' · '}
+              <a href={o.url} target="_blank" rel="noopener">
+                {o.store}
+                {o.price != null && ` (${eur(o.price)})`}
+              </a>
+            </>
+          ))}
+        </p>
+      )
+    }
+    <div class="item__actions">
+      <a class="btn" href={item.url} target="_blank" rel="noopener">Ver en {item.store}</a>
+      {
+        item.price != null && (
+          <label class="pick">
+            <input type="radio" name={`pick-${item.cat}`} value={item.id} />
+            <span>Elegir</span>
+          </label>
+        )
+      }
+    </div>
+  </div>
+</article>
+
+<style>
+  .item {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    border: 1px solid var(--line);
+    transition: border-color 0.2s ease;
+  }
+  .item:has(.pick input:checked) {
+    border-color: var(--ink);
+    box-shadow: 0 0 0 1px var(--ink);
+  }
+  .item__media {
+    display: block;
+    aspect-ratio: 4 / 3;
+    background: var(--soft);
+    overflow: hidden;
+  }
+  .item__media img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+    padding: 12px;
+  }
+  .item__body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 18px 18px 20px;
+  }
+  .item__top {
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+    margin: 0 0 6px;
+    font-family: var(--font-display);
+    font-size: 10px;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+  .item__badge {
+    padding: 2px 8px;
+    background: var(--accent);
+    color: #fff;
+    letter-spacing: 0.16em;
+  }
+  .item__name {
+    margin: 0;
+    font-family: var(--font-display);
+    font-weight: 400;
+    font-size: 16px;
+    letter-spacing: 0.08em;
+    line-height: 1.4;
+  }
+  .item__price {
+    margin: 10px 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 4px 8px;
+    font-size: 13px;
+    color: var(--ink-soft);
+  }
+  .item__price strong {
+    font-family: var(--font-display);
+    font-weight: 500;
+    font-size: 22px;
+    color: var(--ink);
+  }
+  .item__price small {
+    width: 100%;
+    font-size: 11px;
+    color: var(--muted);
+  }
+  .item__specs {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    gap: 3px 12px;
+    margin: 14px 0 0;
+    font-size: 13px;
+  }
+  .item__specs dt {
+    color: var(--muted);
+  }
+  .item__specs dd {
+    margin: 0;
+  }
+  .item__pros,
+  .item__cons,
+  .item__offers {
+    margin: 12px 0 0;
+    font-size: 13px;
+    line-height: 1.5;
+    color: var(--ink-soft);
+  }
+  .item__offers a {
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+  .item__actions {
+    margin-top: auto;
+    padding-top: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 10px;
+  }
+  .pick {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    min-height: 44px;
+    padding: 0 16px;
+    border: 1px solid var(--line);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    cursor: pointer;
+  }
+  .pick input {
+    accent-color: var(--ink);
+  }
+  .pick:has(input:checked) {
+    background: var(--ink);
+    color: #fff;
+    border-color: var(--ink);
+  }
+</style>

@@ -1,0 +1,1855 @@
+{
+ "checked": "18 de octubre de 2026",
+ "sections": [
+  {
+   "cat": "mesas",
+   "title": "Mesa",
+   "kicker": "Elevable · 100–400 €",
+   "intro": "Tiene que aguantar el MSI de 40\" (8 kg sin pie), dos pantallas, tres brazos, el Mac y poco más, subir lo bastante para andar en cinta y dejar esconder los cables.",
+   "pick": "Mi elección: FlexiSpot E5 con tablero 160×80 (389,98 €): doble motor, 100 kg, de 60 a 125 cm (vale para cinta de andar) y tablero de 2,5 cm, que es justo lo que necesitan las pinzas de los brazos. Añade su canaleta de cables (39,99 €) para esconderlo todo. Si la quieres ver antes, la IKEA MITTZON (399 €) está en IKEA Torrejón, aunque con 120 cm de ancho vas justo para dos de 27\".",
+   "items": [
+    {
+     "id": "mesa-flexispot-e5-pro-estructura-2-motores-140-kg-cubierta-de-cables-tabler",
+     "cat": "mesas",
+     "name": "FlexiSpot E5 Pro + tablero 120×80",
+     "store": "FlexiSpot.es (envío gratis península)",
+     "url": "https://www.flexispot.es/escritorio-elevable-e5-pro.html",
+     "image": "https:&#x2F;&#x2F;s3.springbeetle.eu&#x2F;dev-de-s3-flexispot&#x2F;commodity&#x2F;item&#x2F;1028_file_E5PRO-STOPNIE-20260204-01_20260205_KxKyo3Sm.png",
+     "price": 359.98,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Tablero",
+       "120x80 cm"
+      ],
+      [
+       "Grosor",
+       "2.5 cm"
+      ],
+      [
+       "Motores",
+       "2"
+      ],
+      [
+       "Carga máx.",
+       "140 kg"
+      ],
+      [
+       "Altura",
+       "60-125 cm"
+      ],
+      [
+       "Pasacables",
+       "incluida"
+      ],
+      [
+       "Memorias",
+       "4"
+      ]
+     ],
+     "pros": "140 kg (mayor margen para brazos con palanca), cubierta de gestión de cables integrada, mando con USB-A y USB-C, 35 mm/s, 4 memorias, 125 cm de altura máx. Garantía 5 años según meta de la ficha.",
+     "cons": "Con presupuesto <=400 EUR solo cabe el tablero 120x80 (justo para ultrapanorámico 40\" + 2 monitores). Con 140x80 son 419,98 EUR. Opiniones no verificadas. Sin tienda física.",
+     "badge": "La más robusta"
+    },
+    {
+     "id": "mesa-flexispot-e5-estructura-2-motores-3-etapas-tablero-160x80-aglomerado",
+     "cat": "mesas",
+     "name": "FlexiSpot E5 + tablero 160×80",
+     "store": "FlexiSpot.es (envío gratis península)",
+     "url": "https://www.flexispot.es/escritorio-elevable-E5",
+     "image": null,
+     "price": 389.98,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Tablero",
+       "160x80 cm"
+      ],
+      [
+       "Grosor",
+       "2.5 cm"
+      ],
+      [
+       "Motores",
+       "2"
+      ],
+      [
+       "Carga máx.",
+       "100 kg"
+      ],
+      [
+       "Altura",
+       "60-125 cm"
+      ],
+      [
+       "Pasacables",
+       "opcional"
+      ],
+      [
+       "Memorias",
+       "4"
+      ]
+     ],
+     "pros": "Única combinación completa <=400 EUR con 125 cm de altura máx. + doble motor + tablero 160x80 de 25 mm. Patas de 3 etapas, doble viga antivibración, 4 memorias, <50 dB. Envío gratis península y 30 días de prueba (banner de la web).",
+     "cons": "100 kg es suficiente para 25-35 kg pero con poco margen si el peso va en el borde trasero (palanca). No incluye bandeja de cables (canaleta CMP502 = 39,99 EUR -> 429,97 EUR total). Tablero aglomerado de 25 mm. Opiniones no verificadas (reseñas en Yotpo, no accesibles). Sin tienda física.",
+     "badge": "Recomendada"
+    },
+    {
+     "id": "mesa-ikea-mittzon-escritorio-elevable-electrico-blanco-120x80-cm",
+     "cat": "mesas",
+     "name": "IKEA MITTZON 120×80",
+     "store": "IKEA",
+     "url": "https://www.ikea.com/es/es/p/mittzon-escritorio-elevable-electrico-blanco-s99527569/",
+     "image": "https://www.ikea.com/es/es/images/products/mittzon-escritorio-elevable-electrico-blanco__1205601_pe907164_s5.jpg",
+     "price": 399,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Tablero",
+       "120x80 cm"
+      ],
+      [
+       "Motores",
+       "2"
+      ],
+      [
+       "Carga máx.",
+       "80 kg"
+      ],
+      [
+       "Altura",
+       "62-126 cm"
+      ],
+      [
+       "Pasacables",
+       "incluida"
+      ],
+      [
+       "Memorias",
+       "2"
+      ],
+      [
+       "Verla en",
+       "IKEA Torrejón (formato XS, C.C. Parque Corredor, el más cercano a Alcalá; surtido reducido), IKEA San Sebastián de los Reyes, IKEA Alcorcón, IKEA Ensanche de Vallecas (stock por tienda NO verificado)"
+      ]
+     ],
+     "pros": "Doble motor, 62-126 cm, organizador de cables incluido (accesible por arriba y por los lados), garantía 10 años, apta uso profesional (EN 527), valoración 4,7/5. Se puede ver y comprar en tienda en la Comunidad de Madrid.",
+     "cons": "Solo 120 cm de ancho (justo para tu setup). Solo 2 memorias. 80 kg es el límite más bajo de los doble motor con palanca trasera. Grosor del tablero no indicado en la ficha IKEA (comprobar con la pinza de los brazos). Precio en el límite de presupuesto.",
+     "badge": "Para verla en tienda"
+    },
+    {
+     "id": "mesa-tablakala-1-motor-tablero-160x80x3-cm-fabricado-en-espana",
+     "cat": "mesas",
+     "name": "Tablakala 1 motor 160×80",
+     "store": "Tablakala.com (también en Leroy Merlin y Amazon.es)",
+     "url": "https://www.tablakala.com/products/1-motor",
+     "image": "http://www.tablakala.com/cdn/shop/files/tablakala-1-motor-tb-1mb-10060ma-7918934.jpg?v=1774589731",
+     "price": 389.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Tablero",
+       "160x80 cm"
+      ],
+      [
+       "Grosor",
+       "3 cm"
+      ],
+      [
+       "Motores",
+       "1"
+      ],
+      [
+       "Carga máx.",
+       "70 kg"
+      ],
+      [
+       "Altura",
+       "71-121 cm"
+      ],
+      [
+       "Pasacables",
+       "opcional"
+      ],
+      [
+       "Memorias",
+       "4"
+      ]
+     ],
+     "pros": "Tablero de 3 cm (ideal para pinzas de brazos), 4 memorias, anticolisión, columnas 8x5 cm y pies 60x7 cm, envío España ~48 h, buena valoración.",
+     "cons": "1 motor y 70 kg: justo para 25-35 kg con palanca. 121 cm máx. Sin bandeja incluida (bandeja recoge cables 24,99 EUR). Por 389,99 EUR el FlexiSpot E5 ofrece doble motor.",
+     "badge": null
+    },
+    {
+     "id": "mesa-celexon-economy-eadjust-71121-escritorio-electrico-175x75-cm-blanco",
+     "cat": "mesas",
+     "name": "Celexon Economy 175×75",
+     "store": "PcComponentes",
+     "url": "https://www.pccomponentes.com/celexon-economy-eadjust-71121-escritorio-elevable-electrico-regulable-175x75cm-blanco",
+     "image": null,
+     "price": 379.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Tablero",
+       "175x75 cm"
+      ],
+      [
+       "Grosor",
+       "2.5 cm"
+      ],
+      [
+       "Motores",
+       "1"
+      ],
+      [
+       "Carga máx.",
+       "70 kg"
+      ],
+      [
+       "Altura",
+       "71-121 cm"
+      ]
+     ],
+     "pros": "Tablero grande 175x75 con núcleo de aglomerado de 25 mm, buena nota media, envío a casa (entrega estimada 22-26 oct).",
+     "cons": "Motor único y 70 kg de carga. 121 cm máx. La ficha no menciona memorias ni bandeja de cables. Sin tienda física verificada en Madrid.",
+     "badge": null
+    },
+    {
+     "id": "mesa-ikea-trotten-escritorio-elevable-electrico-blanco-160x80-cm",
+     "cat": "mesas",
+     "name": "IKEA TROTTEN 160×80",
+     "store": "IKEA",
+     "url": "https://www.ikea.com/es/es/p/trotten-escritorio-elevable-electrico-blanco-s39621895/",
+     "image": "https://www.ikea.com/es/es/images/products/trotten-escritorio-elevable-electrico-blanco__1517363_pe1012267_s5.jpg",
+     "price": 240,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Tablero",
+       "160x80 cm"
+      ],
+      [
+       "Motores",
+       "1"
+      ],
+      [
+       "Carga máx.",
+       "50 kg"
+      ],
+      [
+       "Altura",
+       "71-118 cm"
+      ],
+      [
+       "Pasacables",
+       "incluida"
+      ],
+      [
+       "Verla en",
+       "IKEA Torrejón (formato XS, C.C. Parque Corredor, el más cercano a Alcalá; surtido reducido), IKEA San Sebastián de los Reyes, IKEA Alcorcón, IKEA Ensanche de Vallecas (stock por tienda NO verificado)"
+      ]
+     ],
+     "pros": "El 160x80 más barato en tienda física, organizador de cables incluido, garantía 10 años, bloqueo infantil.",
+     "cons": "1 solo motor y 50 kg de carga máx.: NO apto para 25-35 kg con palanca trasera. 118 cm máx. (ficha da 71-118 en medidas y 69-116 en texto): insuficiente para cinta de andar. La ficha no indica memorias ni grosor del tablero.",
+     "badge": null
+    },
+    {
+     "id": "mesa-escritorio-electrico-ajustable-160x70-cm-roble-4-memorias-carrefour",
+     "cat": "mesas",
+     "name": "Escritorio eléctrico 160×70 roble",
+     "store": "Carrefour.es (marketplace)",
+     "url": "https://www.carrefour.es/escritorio-electrico-ajustable-oficina-160x70x72-120-cm-4-memorias-roble/0194343324838/p",
+     "image": null,
+     "price": 142.95,
+     "qty": 1,
+     "priceNote": "Precio aproximado (visto en buscador)",
+     "specs": [
+      [
+       "Tablero",
+       "160x70 cm"
+      ],
+      [
+       "Carga máx.",
+       "70 kg"
+      ],
+      [
+       "Altura",
+       "72-120 cm"
+      ],
+      [
+       "Memorias",
+       "4"
+      ]
+     ],
+     "pros": "Barato, 160x70, 4 memorias.",
+     "cons": "Motores y grosor de tablero no indicados; 70 kg; 120 cm máx.; vendedor marketplace.",
+     "badge": null
+    },
+    {
+     "id": "mesa-ergear-escritorio-elevable-electrico-140x70-cm-natural-amazon-es",
+     "cat": "mesas",
+     "name": "ErGear 140×70",
+     "store": "Amazon.es (oferta vista en Chollometro, publicada 10/10/2026)",
+     "url": "https://www.amazon.es/dp/B0D9MFMNWQ",
+     "image": null,
+     "price": 131.76,
+     "qty": 1,
+     "priceNote": "Precio aproximado (visto en buscador)",
+     "specs": [
+      [
+       "Tablero",
+       "140x70 cm"
+      ],
+      [
+       "Grosor",
+       "1.5 cm"
+      ],
+      [
+       "Carga máx.",
+       "80 kg"
+      ],
+      [
+       "Altura",
+       "72-118 cm"
+      ],
+      [
+       "Pasacables",
+       "no"
+      ],
+      [
+       "Memorias",
+       "4"
+      ]
+     ],
+     "pros": "Muy barato, 140x70 con tablero ensamblado, 4 memorias, <55 dB, ganchos y pasacables incluidos.",
+     "cons": "Nº de motores no indicado en el título (probablemente 1), 80 kg, 118 cm máx., tablero de ~1,5 cm (dato de descripción del agregador). Solo pasacables, sin bandeja. Sin opiniones verificadas.",
+     "badge": null
+    },
+    {
+     "id": "mesa-sense7-nojo-light-escritorio-regulable-electrico-160x80-cm",
+     "cat": "mesas",
+     "name": "SENSE7 Nojo Light 160×80",
+     "store": "MediaMarkt (marketplace, vendido por MORELE.NET)",
+     "url": "https://www.mediamarkt.es/es/product/_mesa-escritorio-regulable-sense7-nojo-light-160x80-cm-160-cm-x-80-cm-184681075.html",
+     "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_184681350/fee_786_587_png",
+     "price": 142,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Tablero",
+       "160x80 cm"
+      ],
+      [
+       "Grosor",
+       "1.5 cm"
+      ],
+      [
+       "Motores",
+       "1"
+      ],
+      [
+       "Carga máx.",
+       "70 kg"
+      ],
+      [
+       "Altura",
+       "72-118 cm"
+      ],
+      [
+       "Memorias",
+       "3"
+      ]
+     ],
+     "pros": "Muy barato para 160x80, 3 memorias, bloqueo de sobrecarga, envío gratis.",
+     "cons": "Tablero de solo 1,5 cm (mala base para pinzas), 1 motor, 70 kg, 118 cm máx. Ficha sin bandeja de cables. Marketplace: no está en tienda física.",
+     "badge": null
+    },
+    {
+     "id": "mesa-vasagle-songmics-escritorio-ajustable-lsd144-160x80-cm-marron-rustico",
+     "cat": "mesas",
+     "name": "VASAGLE LSD144 160×80",
+     "store": "Songmics.es",
+     "url": "https://www.songmics.es/products/vasagle-escritorio-ajustable-con-recordatorio-y-carga-integrada-lsd144",
+     "image": "http://www.songmics.es/cdn/shop/files/LSD144KD02-1_6fb18e44-f4db-4c6d-b349-4e6ace406d87_1200x1200.jpg?v=1788941051",
+     "price": 119.5,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Tablero",
+       "160x80 cm"
+      ],
+      [
+       "Memorias",
+       "3"
+      ]
+     ],
+     "pros": "El 160x80 más barato de la lista, USB-C, recordatorio de sedentarismo, estante para regleta, 3 botones de memoria (según título).",
+     "cons": "La ficha no publica motores, carga máxima, rango de altura ni grosor (datos no verificables): no apto para este uso sin confirmar con el fabricante.",
+     "badge": null
+    }
+   ]
+  },
+  {
+   "cat": "monitores",
+   "title": "Pantallas",
+   "kicker": "Dos iguales · 24–27\" · con VESA",
+   "intro": "Todas tienen anclaje VESA para ir en brazo (muchas baratas no lo traen). Con un Mac, mejor 27\" QHD que 27\" Full HD: en macOS el Full HD a 27\" se ve borroso.",
+   "pick": "Mi elección: Lenovo L27h-4A si quieres lo mejor (marcos de 2 mm y USB-C que hace de dock), o Xiaomi A27Qi si quieres ahorrar 100 € en las dos.",
+   "items": [
+    {
+     "id": "mon-lenovo-l27h-4a-67c0uac6eu",
+     "cat": "monitores",
+     "name": "Lenovo L27h-4A · 27\" QHD",
+     "store": "MediaMarkt",
+     "url": "https://www.mediamarkt.es/es/product/_monitor-lenovo-l27h-4a-27-qhd-100-hz-6-ms-ips-1x-usb-c-4-usb-a-2x-hdmir-21-tmds-1x-dp-14-altavoces-incluidos-gris-1605623.html",
+     "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_161574306/fee_786_587_png",
+     "price": 169,
+     "qty": 2,
+     "priceNote": null,
+     "specs": [
+      [
+       "Pantalla",
+       "27\" 2560x1440 IPS"
+      ],
+      [
+       "Refresco",
+       "100 Hz"
+      ],
+      [
+       "VESA",
+       "100x100"
+      ],
+      [
+       "Peso sin pie",
+       "4.23 kg"
+      ],
+      [
+       "USB-C",
+       "Sí (75 W)"
+      ],
+      [
+       "Conexiones",
+       "USB-C (DP 1.4 Alt + PD 75 W + upstream), DisplayPort 1.4, 2x HDMI 2.1, 4x USB-A 5 Gbps (hub), salida audio 3.5 mm"
+      ]
+     ],
+     "pros": "Marcos 2 mm laterales y superior (11,4 mm abajo), ficha PSREF: ideal para dos juntos; USB-C 75 W + DP + 2 HDMI + hub de 4 USB-A (un solo cable al Mac, sirve de dock); QHD IPS 350 nits; peana con 150 mm de altura (irrelevante con brazo); 3 anos de garantia.",
+     "cons": "Es el mas pesado de los QHD (4,23 kg sin peana, x2 en brazos); 100 Hz; altavoces 3 W inutiles para ti.",
+     "badge": "Recomendada",
+     "offers": [
+      {
+       "store": "Amazon.es",
+       "price": 169.0,
+       "url": "https://www.amazon.es/dp/B0DF84JPCW"
+      },
+      {
+       "store": "PcComponentes",
+       "price": 185.99,
+       "url": "https://www.pccomponentes.com/monitor-lenovo-l27h-4a-27-quad-hd-100hz-ips-hdr10-altura-ajustable-altavoces"
+      }
+     ]
+    },
+    {
+     "id": "mon-lg-27u631a-b",
+     "cat": "monitores",
+     "name": "LG 27U631A-B · 27\" QHD",
+     "store": "PcComponentes",
+     "url": "https://www.pccomponentes.com/monitor-lg-27u631a-b-27-led-ips-qhd-100hz",
+     "image": null,
+     "price": 138.94,
+     "qty": 2,
+     "priceNote": null,
+     "specs": [
+      [
+       "Pantalla",
+       "27\" 2560x1440 IPS"
+      ],
+      [
+       "Refresco",
+       "100 Hz"
+      ],
+      [
+       "VESA",
+       "100x100"
+      ],
+      [
+       "Peso sin pie",
+       "3.6 kg"
+      ],
+      [
+       "USB-C",
+       "Sí (15 W)"
+      ],
+      [
+       "Conexiones",
+       "HDMI, USB-C (DP Alt + PD 15 W), salida auriculares; sin DisplayPort"
+      ]
+     ],
+     "pros": "Diseno minimalista 'borderless' en 3 lados; QHD IPS con USB-C (un cable al Mac); ligero (3,6 kg sin peana); 99 % sRGB; el QHD con USB-C mas barato de la lista.",
+     "cons": "USB-C solo 15 W (da igual con un Mac Mini); sin DisplayPort ni hub USB; 250 nits; barbilla inferior; PcComponentes indica 3,8 kg sin peana (usa 3,6 kg de LG).",
+     "badge": "Más minimalista",
+     "offers": [
+      {
+       "store": "MediaMarkt",
+       "price": 159,
+       "url": "https://www.mediamarkt.es/es/product/_monitor-lg-27u631a-b-27-qhd-100-hz-5-ms-ips-hdmi-usb-c-negro-1597776.html"
+      }
+     ]
+    },
+    {
+     "id": "mon-xiaomi-monitor-a27qi-2026-p27qda-ragl",
+     "cat": "monitores",
+     "name": "Xiaomi A27Qi 2026 · 27\" QHD",
+     "store": "MediaMarkt",
+     "url": "https://www.mediamarkt.es/es/product/_monitor-xiaomi-a27qi-27-qhd-120hz-6ms-ips-75-x-75-mm-vesa-negro-1667017.html",
+     "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_175435993/fee_786_587_png",
+     "price": 119,
+     "qty": 2,
+     "priceNote": null,
+     "specs": [
+      [
+       "Pantalla",
+       "27\" 2560x1440 IPS"
+      ],
+      [
+       "Refresco",
+       "120 Hz"
+      ],
+      [
+       "VESA",
+       "75x75"
+      ],
+      [
+       "Peso sin pie",
+       "3.2 kg"
+      ],
+      [
+       "USB-C",
+       "No"
+      ],
+      [
+       "Conexiones",
+       "DisplayPort 1.4, HDMI 2.0, salida audio"
+      ]
+     ],
+     "pros": "El mas barato con QHD 120 Hz y marcos ultrafinos pensados para multi-monitor (ficha Xiaomi ES); ligero (3,2 kg sin peana); DP + HDMI; 300 nits.",
+     "cons": "Solo VESA 75x75 (comprobar que el brazo soporta 75x75; casi todos si); sin USB-C ni hub (cable USB-C a DP/HDMI desde el Mac); ojo: existen A27Qi antiguos de 100 Hz con USB, comprar el de 120 Hz modelo P27QDA-RAGL; en Amazon.es la unidad 2026 aparece con envio en 3-7 meses.",
+     "badge": "Mejor precio",
+     "offers": [
+      {
+       "store": "Amazon.es",
+       "price": 136.95,
+       "url": "https://www.amazon.es/dp/B0GT69BVGS"
+      }
+     ]
+    },
+    {
+     "id": "mon-aoc-q27b35s3",
+     "cat": "monitores",
+     "name": "AOC Q27B35S3 · 27\" QHD",
+     "store": "MediaMarkt",
+     "url": "https://www.mediamarkt.es/es/product/_monitor-aoc-q27b35s3-27-qhd-120-hz-4-ms-gtg-1-ms-mprt-ips-adaptive-sync-negro-1667120.html",
+     "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_186332963/fee_786_587_png",
+     "price": 99,
+     "qty": 2,
+     "priceNote": null,
+     "specs": [
+      [
+       "Pantalla",
+       "27\" 2560x1440 IPS"
+      ],
+      [
+       "Refresco",
+       "120 Hz"
+      ],
+      [
+       "VESA",
+       "100x100"
+      ],
+      [
+       "Peso sin pie",
+       "2.84 kg"
+      ],
+      [
+       "USB-C",
+       "No"
+      ],
+      [
+       "Conexiones",
+       "HDMI 2.0, DisplayPort 1.4"
+      ]
+     ],
+     "pros": "El QHD IPS mas barato (99 EUR, AOC indica 'desde 99 EUR'); biseles finos en 4 lados; solo 2,84 kg sin peana; DP + HDMI; 3 anos de garantia.",
+     "cons": "Sin USB-C ni hub; muy ligero: puede quedar por debajo de la carga minima de algunos brazos de gas; 300 nits, 4 ms GtG; PcComponentes lo tiene sin fecha de entrada a 120 EUR.",
+     "badge": null,
+     "offers": [
+      {
+       "store": "PcComponentes",
+       "price": 120.0,
+       "url": "https://www.pccomponentes.com/monitor-aoc-q27b35s3-27-ips-qhd-120hz-hdr10-adaptive-sync"
+      },
+      {
+       "store": "Amazon.es",
+       "price": null,
+       "url": "https://www.amazon.es/dp/B0F8NQQTKP"
+      }
+     ]
+    },
+    {
+     "id": "mon-philips-1000-series-27e1n1600ae-00",
+     "cat": "monitores",
+     "name": "Philips 27E1N1600AE · 27\" QHD",
+     "store": "PcComponentes",
+     "url": "https://www.pccomponentes.com/monitor-philips-serie-1000-27e1n1600ae-27-led-ips-qhd-100hz-usb-c",
+     "image": null,
+     "price": 165.99,
+     "qty": 2,
+     "priceNote": null,
+     "specs": [
+      [
+       "Pantalla",
+       "27\" 2560x1440 IPS"
+      ],
+      [
+       "Refresco",
+       "120 Hz"
+      ],
+      [
+       "VESA",
+       "100x100"
+      ],
+      [
+       "Peso sin pie",
+       "3.97 kg"
+      ],
+      [
+       "USB-C",
+       "Sí (65 W)"
+      ],
+      [
+       "Conexiones",
+       "USB-C (DP Alt + PD 65 W, upstream), HDMI 1.4, 2x USB-A 3.2 Gen1 (hub), salida audio; sin DisplayPort"
+      ]
+     ],
+     "pros": "USB-C con 65 W + hub de 2 USB-A; QHD IPS 350 nits, HDR10; 3,97 kg sin peana; dato oficial Philips.",
+     "cons": "Solo HDMI 1.4 + USB-C (para QHD a alta frecuencia usar USB-C); Philips no publica el ancho de marco (reseñas dicen 'marco fino'); ficha: 120 Hz, algunos listados dicen 100 Hz; mas caro que Xiaomi/AOC.",
+     "badge": null,
+     "offers": [
+      {
+       "store": "MediaMarkt",
+       "price": 189,
+       "url": "https://www.mediamarkt.es/es/product/_monitor-philips-27e1n1600ae-27-qhd-120-hz-1-ms-mprt-4ms-gtg-ips-hdr10-altura-ajustable-altavoces-integrados-negro-1617973.html"
+      }
+     ]
+    },
+    {
+     "id": "mon-msi-pro-mp275q-e14",
+     "cat": "monitores",
+     "name": "MSI PRO MP275Q · 27\" QHD",
+     "store": "MediaMarkt",
+     "url": "https://www.mediamarkt.es/es/product/_monitor-msi-pro-mp275q-e14-27-qhd-144-hz-4-ms-gtg-1-ms-mprt-ips-altavoces-incoporados-amd-freesynctm-negro-1667558.html",
+     "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_181449867/fee_786_587_png",
+     "price": 169,
+     "qty": 2,
+     "priceNote": null,
+     "specs": [
+      [
+       "Pantalla",
+       "27\" 2560x1440 IPS"
+      ],
+      [
+       "Refresco",
+       "144 Hz"
+      ],
+      [
+       "VESA",
+       "100x100"
+      ],
+      [
+       "Peso sin pie",
+       "3.53 kg"
+      ],
+      [
+       "USB-C",
+       "No"
+      ],
+      [
+       "Conexiones",
+       "2x HDMI 2.0b, DisplayPort 1.2a, salida auriculares"
+      ]
+     ],
+     "pros": "QHD IPS 144 Hz; DP + 2 HDMI; 3,53 kg sin peana (ficha MSI); misma marca que tu MAG 401QR.",
+     "cons": "Sin USB-C ni hub; MSI no indica ancho de marco; no es el mas barato de los QHD; MediaMarkt indica 6,42 kg pero es peso bruto con caja.",
+     "badge": null,
+     "offers": [
+      {
+       "store": "PcComponentes",
+       "price": 169.42,
+       "url": "https://www.pccomponentes.com/monitor-msi-pro-mp275q-e14-27-wide-quad-hd-144hz-ips-freesync-hdr-altavoces"
+      },
+      {
+       "store": "El Corte Ingles",
+       "price": 134,
+       "url": "https://www.elcorteingles.es/electronica/A200911786-4711377392785-pr-monitor-pc-gaming-686cm-27-msi-pro-mp275q-e14-144hz-wqhd/"
+      }
+     ]
+    },
+    {
+     "id": "mon-philips-1000-series-27e1n1300ae-00",
+     "cat": "monitores",
+     "name": "Philips 27E1N1300AE · 27\" Full HD",
+     "store": "MediaMarkt",
+     "url": "https://www.mediamarkt.es/es/product/_monitor-philips-27e1n1300ae00-profesional-27-full-hd-120-hz-4-ms-ips-altura-ajustable-altavoces-negro-1668810.html",
+     "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_178979756/fee_786_587_png",
+     "price": 139,
+     "qty": 2,
+     "priceNote": null,
+     "specs": [
+      [
+       "Pantalla",
+       "27\" 1920x1080 IPS"
+      ],
+      [
+       "Refresco",
+       "120 Hz"
+      ],
+      [
+       "VESA",
+       "100x100"
+      ],
+      [
+       "Peso sin pie",
+       "4.07 kg"
+      ],
+      [
+       "USB-C",
+       "Sí (65 W)"
+      ],
+      [
+       "Conexiones",
+       "USB-C (DP Alt + PD 65 W), HDMI 1.4, 2x USB-A 3.2 Gen1 (hub), salida audio"
+      ]
+     ],
+     "pros": "27 FHD con USB-C 65 W y hub; precio 139 EUR; ficha oficial completa.",
+     "cons": "Full HD en 27 pulgadas se ve blando en macOS; 4,07 kg sin peana; 120 Hz solo por HDMI (la ficha /00 de otras tiendas dice 100 Hz); PcComponentes lo vende a 175,99 EUR.",
+     "badge": null,
+     "offers": [
+      {
+       "store": "Amazon.es",
+       "price": 139.0,
+       "url": "https://www.amazon.es/dp/B0CRHTXXFB"
+      },
+      {
+       "store": "PcComponentes",
+       "price": 175.99,
+       "url": "https://www.pccomponentes.com/monitor-philips-1000-series-27e1n1300ae-00-27-1080p-100hz-ips-usb-c-altura-ajustable-altavoces"
+      }
+     ]
+    },
+    {
+     "id": "mon-xiaomi-monitor-a27i-2026",
+     "cat": "monitores",
+     "name": "Xiaomi A27i 2026 · 27\" Full HD",
+     "store": "MediaMarkt",
+     "url": "https://www.mediamarkt.es/es/product/_monitor-xiaomi-a27i-2026-27-full-hd-144-hz-6-ms-ips-300-nits-diseno-delgado-y-minimalista-1667015.html",
+     "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_178983145/fee_786_587_png",
+     "price": 99,
+     "qty": 2,
+     "priceNote": null,
+     "specs": [
+      [
+       "Pantalla",
+       "27\" 1920x1080 IPS"
+      ],
+      [
+       "Refresco",
+       "144 Hz"
+      ],
+      [
+       "VESA",
+       "75x75"
+      ],
+      [
+       "Peso sin pie",
+       "3.2 kg"
+      ],
+      [
+       "USB-C",
+       "No"
+      ],
+      [
+       "Conexiones",
+       "DisplayPort 1.4, HDMI 2.0"
+      ]
+     ],
+     "pros": "El mas barato; bisel ultrafino en 3 lados, diseno minimalista; 3,2 kg sin base; DP + HDMI.",
+     "cons": "Full HD en 27 pulgadas (se ve blando en macOS); VESA solo 75x75; sin USB-C ni hub; 300 nits.",
+     "badge": null,
+     "offers": []
+    },
+    {
+     "id": "mon-dell-p2425h-dell-pro-24-plus",
+     "cat": "monitores",
+     "name": "Dell P2425H · 24\" Full HD",
+     "store": "PcComponentes",
+     "url": "https://www.pccomponentes.com/monitor-dell-p-series-p2425h-23-8-led-ips-fullhd-100hz",
+     "image": null,
+     "price": 146.99,
+     "qty": 2,
+     "priceNote": null,
+     "specs": [
+      [
+       "Pantalla",
+       "23.8\" 1920x1080 IPS"
+      ],
+      [
+       "Refresco",
+       "100 Hz"
+      ],
+      [
+       "VESA",
+       "100x100"
+      ],
+      [
+       "Peso sin pie",
+       "3.12 kg"
+      ],
+      [
+       "USB-C",
+       "No"
+      ],
+      [
+       "Conexiones",
+       "DisplayPort 1.2, HDMI 1.4, VGA, hub USB: 1x USB-B upstream, 3x USB-A 3.2, 1x USB-C downstream (solo datos/15 W, NO entrada de video)"
+      ]
+     ],
+     "pros": "Marco ultrafino (Dell lo indica para multi-monitor); 3,12 kg sin peana (guia oficial Dell); DP + HDMI + hub USB; 3 anos de garantia; el 24 pulgadas mas solido de la lista.",
+     "cons": "24 Full HD es el que peor se ve en macOS (92 ppi); el puerto USB-C NO acepta video; mas caro que otros 24 FHD con USB-C de video.",
+     "badge": null,
+     "offers": [
+      {
+       "store": "MediaMarkt",
+       "price": 151.81,
+       "url": "https://www.mediamarkt.es/es/product/_monitor-dell-p2425h-24-full-hd-8-ms-negro-142974978.html"
+      }
+     ]
+    },
+    {
+     "id": "mon-lenovo-l24d-4c-docking-usb-c",
+     "cat": "monitores",
+     "name": "Lenovo L24d-4C · 24\" Full HD",
+     "store": "MediaMarkt",
+     "url": "https://www.mediamarkt.es/es/product/_monitor-lenovo-l24d-4c-238-full-hd-144-hz-1-ms-ips-freesync-docking-usb-c-ajustable-altura-altavoces-incorporados-1624333.html",
+     "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MMS_173589844/fee_786_587_png",
+     "price": 129,
+     "qty": 2,
+     "priceNote": null,
+     "specs": [
+      [
+       "Pantalla",
+       "23.8\" 1920x1080 IPS"
+      ],
+      [
+       "Refresco",
+       "144 Hz"
+      ],
+      [
+       "VESA",
+       "100x100"
+      ],
+      [
+       "Peso sin pie",
+       "3.4 kg"
+      ],
+      [
+       "USB-C",
+       "Sí (75 W)"
+      ],
+      [
+       "Conexiones",
+       "USB-C (DP 1.2 Alt + PD 75 W + upstream), HDMI 1.4, 4x USB-A 5 Gbps (hub), salida audio; sin DisplayPort"
+      ]
+     ],
+     "pros": "24 FHD con USB-C de video + 75 W + hub de 4 USB-A (dock); marcos 2 mm lateral/superior (10,4 mm abajo); 3,4 kg sin peana; 129 EUR.",
+     "cons": "Full HD en macOS se ve blando; sin DisplayPort, HDMI 1.4; 250 nits.",
+     "badge": null,
+     "offers": [
+      {
+       "store": "PcComponentes",
+       "price": 133.74,
+       "url": "https://www.pccomponentes.com/monitor-lenovo-l24d-4c-238-fullhd-144hz-ips-usb-c-altura-altavoces-gaming"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "brazos",
+   "title": "Brazos",
+   "kicker": "Montaje 2 + 1",
+   "intro": "El MSI pesa 8 kg sin pie y mide 94,5 cm: necesita un brazo que admita 40\" y ese peso. Las dos de abajo, un brazo doble normal.",
+   "pick": "Mi elección: ARCTIC X1-3D (de gas, admite ultrapanorámicos de hasta 43\" y 10 kg; el MSI pesa 8) para arriba + HUANUO FlowLift Pro doble para las dos de abajo: 74 € en total. Ojo: el ARCTIC necesita un tablero de 2 a 5,5 cm de grosor; si la mesa es más fina, el ONKRON G100-B (20 kg, de 1 a 4,5 cm) por 22 € más.",
+   "items": [
+    {
+     "id": "brazos-a1-2-1-de-mastil-economico-putorsen-1x49-2x32",
+     "cat": "brazos",
+     "name": "Mástil 2+1 PUTORSEN (el más barato)",
+     "store": "Amazon.es (vendedor HSEU-DIRECT)",
+     "url": "https://www.amazon.es/dp/B0F1TSBS2C",
+     "image": null,
+     "price": 39.99,
+     "qty": 1,
+     "priceNote": "Precio total de la combinación",
+     "specs": [
+      [
+       "2+1 mástil",
+       "PUTORSEN soporte 3 monitores 1x49\" (centro, 20 kg) + 2x32\" (10 kg c/u), poste 80 cm — 39.99 € · hasta 10 kg y 49\" por brazo"
+      ]
+     ],
+     "pros": "Un solo anclaje y 39,99 EUR. Cumple tamano/peso (central 20 kg/49\", laterales 10 kg/32\"). Menos movimiento y sin gas; vigilar balanceo de la mesa elevable.",
+     "cons": null,
+     "badge": "Más barata",
+     "offers": []
+    },
+    {
+     "id": "brazos-b2-recomendada-arctic-x1-3d-huanuo-flowlift-pro-dual",
+     "cat": "brazos",
+     "name": "ARCTIC X1-3D + HUANUO FlowLift Pro doble",
+     "store": "Amazon.es (vendedor BSQ Technology EU) + Amazon.es (vendedor PROComponentes)",
+     "url": "https://www.amazon.es/dp/B097C96R6M",
+     "image": null,
+     "price": 74.09,
+     "qty": 1,
+     "priceNote": "Precio total de la combinación",
+     "specs": [
+      [
+       "brazo gas simple",
+       "ARCTIC X1-3D (brazo de gas, 1 monitor, hasta 43\" UW / 40\" 16:9, 10 kg) — 38.1 € · hasta 10 kg y 43\" por brazo"
+      ],
+      [
+       "brazo doble (muelle mecanico)",
+       "HUANUO FlowLift Pro dual 13-32\" (2-9 kg por brazo) — 35.99 € · hasta 9 kg y 32\" por brazo"
+      ]
+     ],
+     "pros": "74,09 EUR. Gas arriba con ficha oficial que cita ultrawide <=43\" y 10 kg; abajo doble de 9 kg/brazo con indicador de tension. Comprobar que la mesa tenga >=20 mm de grosor (pinza X1-3D 20-55 mm).",
+     "cons": null,
+     "badge": "Recomendada",
+     "offers": [
+      {
+       "store": "HUANUO FlowLift Pro dual 13-32\" (2-9 kg por brazo)",
+       "price": 35.99,
+       "url": "https://www.amazon.es/dp/B0GK6DT5SF"
+      }
+     ]
+    },
+    {
+     "id": "brazos-b5-onkron-g100-b-huanuo-flowlift-pro-dual",
+     "cat": "brazos",
+     "name": "ONKRON G100-B + HUANUO FlowLift Pro doble",
+     "store": "Amazon.es (vendedor BSQ Technology EU) + onkron.es (tienda oficial)",
+     "url": "https://www.onkron.es/products/onkron-soporte-para-monitor-lcd-y-led-17-49-brazo-giratorio-g100",
+     "image": "http://onkron.es/cdn/shop/files/G100-B_0_c7646fbe-1296-4be8-a2af-485f32bb5310_1200x1200.png?v=1780574722",
+     "price": 95.98,
+     "qty": 1,
+     "priceNote": "Precio total de la combinación",
+     "specs": [
+      [
+       "brazo gas simple",
+       "ONKRON G100-B (brazo de gas 17-49\", 20 kg plano / 14 kg curvo) — 59.99 € · hasta 20 kg y 49\" por brazo"
+      ],
+      [
+       "brazo doble (muelle mecanico)",
+       "HUANUO FlowLift Pro dual 13-32\" (2-9 kg por brazo) — 35.99 € · hasta 9 kg y 32\" por brazo"
+      ]
+     ],
+     "pros": "95,98 EUR. Opcion 'sin sustos': arriba 20 kg de capacidad y garantia de 5 anos; abajo 9 kg/brazo.",
+     "cons": null,
+     "badge": "Más holgura",
+     "offers": [
+      {
+       "store": "HUANUO FlowLift Pro dual 13-32\" (2-9 kg por brazo)",
+       "price": 35.99,
+       "url": "https://www.amazon.es/dp/B0GK6DT5SF"
+      }
+     ]
+    },
+    {
+     "id": "brazos-a2-2-1-de-mastil-con-laterales-de-gas-putorsen-49-fijo-2x35-gas",
+     "cat": "brazos",
+     "name": "Mástil 2+1 PUTORSEN con brazos de gas",
+     "store": "Amazon.es (vendedor FYD Technology)",
+     "url": "https://www.amazon.es/dp/B0F9LFFDQX",
+     "image": null,
+     "price": 99.99,
+     "qty": 1,
+     "priceNote": "Precio total de la combinación",
+     "specs": [
+      [
+       "2+1 mástil",
+       "PUTORSEN soporte 3 monitores: 1 fijo 49\" (2-20 kg) + 2 brazos de gas 35\" (10 kg c/u), columna 80 cm — 99.99 € · hasta 10 kg y 49\" por brazo"
+      ]
+     ],
+     "pros": "99,99 EUR, dentro del tope de 100. Laterales de gas y cables ocultos; el MSI queda en el brazo fijo central (20 kg).",
+     "cons": null,
+     "badge": null,
+     "offers": []
+    },
+    {
+     "id": "brazos-b1-minimo-con-gas-arriba-arctic-x1-3d-arctic-z2-basic",
+     "cat": "brazos",
+     "name": "ARCTIC X1-3D + ARCTIC Z2 Basic",
+     "store": "Amazon.es (vendedor 1foDiscount) + Amazon.es (vendedor PROComponentes)",
+     "url": "https://www.amazon.es/dp/B097C96R6M",
+     "image": null,
+     "price": 68.0,
+     "qty": 1,
+     "priceNote": "Precio total de la combinación",
+     "specs": [
+      [
+       "brazo gas simple",
+       "ARCTIC X1-3D (brazo de gas, 1 monitor, hasta 43\" UW / 40\" 16:9, 10 kg) — 38.1 € · hasta 10 kg y 43\" por brazo"
+      ],
+      [
+       "brazo doble (mecanico, sin gas)",
+       "ARCTIC Z2 Basic dual (16:9 hasta 28\", 15 kg por brazo) - mecanico — 29.9 € · hasta 15 kg y 28\" por brazo"
+      ]
+     ],
+     "pros": "68,00 EUR. Gas y cables dentro del brazo para el 40\"; abajo doble mecanico barato (15 kg/brazo).",
+     "cons": null,
+     "badge": null,
+     "offers": [
+      {
+       "store": "ARCTIC Z2 Basic dual (16:9 hasta 28\", 15 kg por brazo) - mecanico",
+       "price": 29.9,
+       "url": "https://www.amazon.es/dp/B01N2QIF1Y"
+      }
+     ]
+    },
+    {
+     "id": "brazos-b3-aisens-49-de-gas-huanuo-flowlift-pro-dual",
+     "cat": "brazos",
+     "name": "AISENS 49\" + HUANUO FlowLift Pro doble",
+     "store": "Amazon.es (vendedor BSQ Technology EU) + MediaMarkt.es",
+     "url": "https://www.mediamarkt.es/eu/product/_soporte-para-monitor-aisens-tv90504423-152688132.html",
+     "image": "https://assets.mmsrg.com/isr/166325/c1/-/ASSET_MP_164694030/fee_786_587_png",
+     "price": 81.21,
+     "qty": 1,
+     "priceNote": "Precio total de la combinación",
+     "specs": [
+      [
+       "brazo gas simple",
+       "AISENS TV90504423 (brazo de gas gaming 17-49\", 16 kg) — 45.22 € · hasta 16 kg y 49\" por brazo"
+      ],
+      [
+       "brazo doble (muelle mecanico)",
+       "HUANUO FlowLift Pro dual 13-32\" (2-9 kg por brazo) — 35.99 € · hasta 9 kg y 32\" por brazo"
+      ]
+     ],
+     "pros": "81,21 EUR. Aisens 16 kg (margen 2x) con cables; ficha menos documentada (sin VESA ni grosor de mesa).",
+     "cons": null,
+     "badge": null,
+     "offers": [
+      {
+       "store": "HUANUO FlowLift Pro dual 13-32\" (2-9 kg por brazo)",
+       "price": 35.99,
+       "url": "https://www.amazon.es/dp/B0GK6DT5SF"
+      }
+     ]
+    },
+    {
+     "id": "brazos-b4-onkron-g100-b-amazon-basics-dual-32-10-kg",
+     "cat": "brazos",
+     "name": "ONKRON G100-B + Amazon Basics doble",
+     "store": "Amazon.es (Amazon) + onkron.es (tienda oficial)",
+     "url": "https://www.onkron.es/products/onkron-soporte-para-monitor-lcd-y-led-17-49-brazo-giratorio-g100",
+     "image": "http://onkron.es/cdn/shop/files/G100-B_0_c7646fbe-1296-4be8-a2af-485f32bb5310_1200x1200.png?v=1780574722",
+     "price": 84.98,
+     "qty": 1,
+     "priceNote": "Precio total de la combinación",
+     "specs": [
+      [
+       "brazo gas simple",
+       "ONKRON G100-B (brazo de gas 17-49\", 20 kg plano / 14 kg curvo) — 59.99 € · hasta 20 kg y 49\" por brazo"
+      ],
+      [
+       "brazo doble (tension ajustable, tipo no indicado)",
+       "Amazon Basics brazo doble hasta 32\" y 10 kg por brazo (tension ajustable) — 24.99 € · hasta 10 kg y 32\" por brazo"
+      ]
+     ],
+     "pros": "84,98 EUR. G100-B es el mas documentado y holgado (20 kg, pinza 10-45 mm, 5 anos garantia); doble Amazon Basics muy barato.",
+     "cons": null,
+     "badge": null,
+     "offers": [
+      {
+       "store": "Amazon Basics brazo doble hasta 32\" y 10 kg por brazo (tension ajustable)",
+       "price": 24.99,
+       "url": "https://www.amazon.es/dp/B0CQTPZNV8"
+      }
+     ]
+    },
+    {
+     "id": "brazos-b6-huanuo-ultrawide-17-57-huanuo-flowlift-pro-dual-misma-marca",
+     "cat": "brazos",
+     "name": "HUANUO ultrawide + HUANUO FlowLift Pro doble",
+     "store": "Amazon.es (vendedor BSQ Technology EU)",
+     "url": "https://www.amazon.es/dp/B0DQ17ZGQP",
+     "image": null,
+     "price": 102.86,
+     "qty": 1,
+     "priceNote": "Precio total de la combinación",
+     "specs": [
+      [
+       "brazo simple (tipo no indicado en ficha)",
+       "HUANUO HNSS49B ultrawide 17-57\", 3-20 kg, poste alto — 66.87 € · hasta 20 kg y 57\" por brazo"
+      ],
+      [
+       "brazo doble (muelle mecanico)",
+       "HUANUO FlowLift Pro dual 13-32\" (2-9 kg por brazo) — 35.99 € · hasta 9 kg y 32\" por brazo"
+      ]
+     ],
+     "pros": "102,86 EUR. El que mas sube (739 mm) y admite mesas de 20-90 mm; ligeramente por encima de 100 EUR.",
+     "cons": null,
+     "badge": null,
+     "offers": [
+      {
+       "store": "HUANUO FlowLift Pro dual 13-32\" (2-9 kg por brazo)",
+       "price": 35.99,
+       "url": "https://www.amazon.es/dp/B0GK6DT5SF"
+      }
+     ]
+    },
+    {
+     "id": "brazos-b7-todo-gas-cables-arctic-x1-3d-aisens-tv90504421-dual-de-gas",
+     "cat": "brazos",
+     "name": "ARCTIC X1-3D + AISENS doble de gas (todo gas)",
+     "store": "Amazon.es (vendedor PROComponentes) + MediaMarkt.es",
+     "url": "https://www.amazon.es/dp/B097C96R6M",
+     "image": null,
+     "price": 115.51,
+     "qty": 1,
+     "priceNote": "Precio total de la combinación",
+     "specs": [
+      [
+       "brazo gas simple",
+       "ARCTIC X1-3D (brazo de gas, 1 monitor, hasta 43\" UW / 40\" 16:9, 10 kg) — 38.1 € · hasta 10 kg y 43\" por brazo"
+      ],
+      [
+       "brazo gas doble",
+       "AISENS TV90504421 dual de gas 17-38\" (16 kg por brazo) — 77.41 € · hasta 16 kg y 38\" por brazo"
+      ]
+     ],
+     "pros": "115,51 EUR (<150). Ambos brazos de gas con gestion de cables; el dual Aisens (16 kg/brazo) es el mas caro de los duales.",
+     "cons": null,
+     "badge": null,
+     "offers": [
+      {
+       "store": "AISENS TV90504421 dual de gas 17-38\" (16 kg por brazo)",
+       "price": 77.41,
+       "url": "https://www.mediamarkt.es/eu/product/_soporte-para-2-monitores-aisens-tv90504421-152688041.html"
+      }
+     ]
+    },
+    {
+     "id": "brazos-b8-referencia-cara-ergotron-lx-huanuo-flowlift-pro-dual",
+     "cat": "brazos",
+     "name": "Ergotron LX + HUANUO (referencia cara)",
+     "store": "Amazon.es (vendedor BSQ Technology EU) + Amazon.es (vendedor MERCAMICRO)",
+     "url": "https://www.amazon.es/dp/B00358RIRC",
+     "image": null,
+     "price": 242.12,
+     "qty": 1,
+     "priceNote": "Precio total de la combinación",
+     "specs": [
+      [
+       "brazo simple (resorte CF, no gas)",
+       "Ergotron LX (45-241-224) - REFERENCIA CARA — 206.13 € · hasta 11.3 kg y 34\" por brazo"
+      ],
+      [
+       "brazo doble (muelle mecanico)",
+       "HUANUO FlowLift Pro dual 13-32\" (2-9 kg por brazo) — 35.99 € · hasta 9 kg y 32\" por brazo"
+      ]
+     ],
+     "pros": "242,12 EUR. Solo como comparativa: el LX tiene maximo oficial 34\" / 11,3 kg y no llega a 40\"; fuera de presupuesto.",
+     "cons": null,
+     "badge": null,
+     "offers": [
+      {
+       "store": "HUANUO FlowLift Pro dual 13-32\" (2-9 kg por brazo)",
+       "price": 35.99,
+       "url": "https://www.amazon.es/dp/B0GK6DT5SF"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "cat": "sillas",
+   "title": "Sillas del salón",
+   "kicker": "Giratorias 360° · con brazos · 75–100 €",
+   "intro": "Sillas de comedor (sin ruedas) que giran sobre sí mismas, con reposabrazos y acolchadas, que combinan con una mesa marrón. Precio por silla: si van en pack, está dividido.",
+   "pick": "Para verlas en persona: Catalina, Bridget y Silvia están en Conforama Alcalá (C.C. La Dehesa). Online, la ELUCHANG crema con patas de madera es la que mejor pega con la mesa marrón.",
+   "items": [
+    {
+     "id": "silla-pack-de-2-sillas-giratorias-silvia-terciopelo-gris-negro-rojo",
+     "cat": "sillas",
+     "name": "Silvia · terciopelo capitoné",
+     "store": "Conforama",
+     "url": "https://www.conforama.es/pack-de-2-sillas-silvia",
+     "image": "https://media.conforama.es/_prod_/imagenes/media/126425_01.jpg",
+     "price": 79.7,
+     "qty": 1,
+     "priceNote": "Pack: 2 por 159,40 € (79,70 €/ud; oferta del mes -20%, antes 199,40 €)",
+     "specs": [
+      [
+       "Material",
+       "Terciopelo con respaldo capitoné; espuma 22 kg/m3 (asiento) y 18 kg/m3 (respaldo); estructura de metal negro"
+      ],
+      [
+       "Colores",
+       "Gris (azulado oscuro), Negro, Rojo"
+      ],
+      [
+       "Altura asiento",
+       "47 cm"
+      ],
+      [
+       "Ancho",
+       "62 cm"
+      ],
+      [
+       "Carga máx.",
+       "110 kg"
+      ],
+      [
+       "Verla en",
+       "Conforama Alcalá de Henares (C/ Humanes 1, CC La Dehesa, 28805; L-S 10-22h). Ficha con 'Recogida gratis (tienda)'; verificar si hay unidad de exposición"
+      ]
+     ],
+     "pros": "Terciopelo capitoné muy actual y con respaldo envolvente; precio por silla más bajo del grupo en rango sin ser marketplace; gris/negro con patas negras queda sobrio y elegante con madera marrón; vendido por Conforama",
+     "cons": "Pack mínimo 2 (hay que pedir 2 packs para 4 sillas); ancho 62 cm: con 4-6 sillas ocupa bastante mesa; 110 kg; el gris es frío frente a madera marrón cálida",
+     "badge": "Mejor precio"
+    },
+    {
+     "id": "silla-eluchang-silla-de-comedor-giratoria-360-con-reposabrazos-altos-terciop",
+     "cat": "sillas",
+     "name": "ELUCHANG · terciopelo crema y madera",
+     "store": "Amazon.es",
+     "url": "https://www.amazon.es/dp/B0FSQHKR26",
+     "image": "https://m.media-amazon.com/images/I/71f-6s8u8cL._AC_SL1500_.jpg",
+     "price": 89.75,
+     "qty": 1,
+     "priceNote": "Pack: 4 por 358,99 € (89,75 €/silla). Otras variantes de la misma serie: pack 2 crema 179,99 € (90 €/silla, B0FSQ4RG83); pack 4 negro 338,99 € (84,75 €/silla, B0FSQJHZWG); pack 2 gris 161,49 € (80,75 €/silla, B0FSQGZDCF)",
+     "specs": [
+      [
+       "Material",
+       "terciopelo; patas de madera (4 cm de diámetro) sobre base metálica cruzada; acolchado de 3 capas de 12 cm"
+      ],
+      [
+       "Colores",
+       "crema, negro, gris, naranja"
+      ],
+      [
+       "Altura asiento",
+       "47.5 cm"
+      ],
+      [
+       "Ancho",
+       "56 cm"
+      ],
+      [
+       "Carga máx.",
+       "150 kg"
+      ],
+      [
+       "Opiniones",
+       "4.6 (158)"
+      ]
+     ],
+     "pros": "Asiento muy mullido (12 cm), respaldo curvo envolvente inclinado 105°, reposabrazos de 15 cm, patas de madera que enlazan con la mesa marrón, 150 kg, mejor relación nota/opiniones de la categoría en el rango de precio.",
+     "cons": "Marca poco conocida; la ficha da las medidas de forma ambigua (56 x 42 x 47,5 cm = ancho x fondo x altura de asiento); colores reales pueden variar en foto.",
+     "badge": "Recomendada"
+    },
+    {
+     "id": "silla-silla-de-comedor-giratoria-catalina-beige-gris",
+     "cat": "sillas",
+     "name": "Catalina · tela y patas de haya",
+     "store": "Conforama",
+     "url": "https://www.conforama.es/silla-de-comedor-giratoria-catalina",
+     "image": "https://media.conforama.es/_prod_/imagenes/media/125959_01.jpg",
+     "price": 99.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Material",
+       "Tela tapizada (textura tipo chenilla en foto), asiento con muelles ensacados + espuma 24 kg/m3; patas de madera maciza de haya (30 mm)"
+      ],
+      [
+       "Colores",
+       "Beige, Gris"
+      ],
+      [
+       "Altura asiento",
+       "49 cm"
+      ],
+      [
+       "Ancho",
+       "60 cm"
+      ],
+      [
+       "Carga máx.",
+       "110 kg"
+      ],
+      [
+       "Verla en",
+       "Conforama Alcalá de Henares (C/ Humanes 1, CC La Dehesa, 28805; L-S 10-22h). Ficha con 'Recogida gratis (tienda)'; verificar si hay unidad de exposición"
+      ]
+     ],
+     "pros": "Mejor encaje con mesa marrón: tapizado beige/greige + patas de haya claras repiten la madera sin igualar el tono; respaldo envolvente con brazos integrados (alto brazos 65 cm); muelles ensacados = más confort que espuma sola; vendida y enviada por Conforama (devolución en tienda)",
+     "cons": "Máx. 110 kg; 4 sillas = ~400 €; el beige claro se mancha más con niños; sin sistema de retorno automático indicado",
+     "badge": "Recomendada"
+    },
+    {
+     "id": "silla-konya-lote-de-2-sillas-giratorias-con-reposabrazos-de-terciopelo-y-met",
+     "cat": "sillas",
+     "name": "Konya · terciopelo beige",
+     "store": "Venta-Unica (Vente-unique)",
+     "url": "https://www.vente-unique.es/p/lote-de-2-sillas-giratorias-con-reposabrazos-de-terciopelo-y-metal-negro-beige-konya",
+     "image": "https://cdn1.vente-unique.com/thumbnails/product/1255/1255857/large/0/66077572.webp",
+     "price": 100.0,
+     "qty": 1,
+     "priceNote": "Pack: 2 por 199,99 € (100 €/silla). Lote de 6: 579,99 € (96,67 €/silla). Unidad: 109,99 €",
+     "specs": [
+      [
+       "Material",
+       "terciopelo (poliéster) con asiento de espuma de 26 kg/m3; base central de estrella de metal negro de 4 brazos"
+      ],
+      [
+       "Colores",
+       "beige (terciopelo), gris topo, crema (terciopelo acanalado), burdeos, tweed crema"
+      ],
+      [
+       "Altura asiento",
+       "51 cm"
+      ],
+      [
+       "Ancho",
+       "58 cm"
+      ],
+      [
+       "Carga máx.",
+       "130 kg"
+      ],
+      [
+       "Opiniones",
+       "5.0 (128)"
+      ]
+     ],
+     "pros": "Nota 5,0 con 128 opiniones (91 % de 5 estrellas), respaldo con abertura que aligera la silla, reposabrazos a 67 cm, buenas medidas (58 x 59 x 84 cm), tiene versión de 6 más barata por silla.",
+     "cons": "En el límite alto del presupuesto (100 €/silla en pack 2); una opinión indica que no está pensada para sentarse muchas horas; la nota es de toda la serie KONYA (varios colores).",
+     "badge": "Mejor valorada"
+    },
+    {
+     "id": "silla-bon-furni-pack-2-sillas-de-comedor-giratorias-360-con-reposabrazos-ter",
+     "cat": "sillas",
+     "name": "Bon Furni · terciopelo gris claro",
+     "store": "Amazon.es",
+     "url": "https://www.amazon.es/dp/B0GV3RVR52",
+     "image": "https://m.media-amazon.com/images/I/61IDID28wlL._AC_SL1500_.jpg",
+     "price": 75.0,
+     "qty": 1,
+     "priceNote": "Pack: 2 por 149,99 € (75 €/silla)",
+     "specs": [
+      [
+       "Material",
+       "terciopelo; patas de metal negro con niveladores"
+      ],
+      [
+       "Colores",
+       "gris claro, marfil y negro (terciopelo); beige, gris topo y marrón moca (tela); marrón y negro (piel sintética); beige con patas blancas"
+      ],
+      [
+       "Altura asiento",
+       "49 cm"
+      ],
+      [
+       "Ancho",
+       "57 cm"
+      ],
+      [
+       "Carga máx.",
+       "150 kg"
+      ],
+      [
+       "Opiniones",
+       "4.9 (10)"
+      ]
+     ],
+     "pros": "Es el más barato por silla dentro del rango (75 €), 150 kg, asiento a 49 cm, patas de metal negro, gran variedad de colores y tapizados.",
+     "cons": "Solo 10 opiniones (nota alta pero poco contrastada); entrega más lenta; marca poco conocida; reposabrazos/respaldo no detallados en cm.",
+     "badge": null
+    },
+    {
+     "id": "silla-yaheetech-silla-de-comedor-giratoria-con-reposabrazos-terciopelo-beige",
+     "cat": "sillas",
+     "name": "Yaheetech · terciopelo beige",
+     "store": "Amazon.es",
+     "url": "https://www.amazon.es/dp/B0G3PJC3V8",
+     "image": "https://m.media-amazon.com/images/I/71tsQBAhnzL._AC_SL1500_.jpg",
+     "price": 77.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Material",
+       "terciopelo (poliéster) con espuma y respaldo capitoné; estructura y patas de metal"
+      ],
+      [
+       "Colores",
+       "beige, gris oscuro"
+      ],
+      [
+       "Altura asiento",
+       "45 cm"
+      ],
+      [
+       "Ancho",
+       "55 cm"
+      ],
+      [
+       "Carga máx.",
+       "136 kg"
+      ],
+      [
+       "Opiniones",
+       "4.3 (65)"
+      ]
+     ],
+     "pros": "Se compra por unidades (sin obligar a pack), 136 kg, respaldo capitoné, marca conocida de muebles, entrega rápida.",
+     "cons": "Asiento relativamente bajo (45 cm); la ficha da dos anchos distintos (45,5 y 55 cm); reposabrazos a 59 cm del suelo.",
+     "badge": null
+    },
+    {
+     "id": "silla-juego-de-2-sillas-giratorias-de-terciopelo-con-reposabrazos-patas-de-m",
+     "cat": "sillas",
+     "name": "Verona · terciopelo y patas doradas",
+     "store": "Conforama (marketplace)",
+     "url": "https://www.conforama.es/sillas-de-comedor-mkpv185579",
+     "image": "https://media.conforama.es/_prod_/imagenes/media/mkp1534503_01.jpg",
+     "price": 80.0,
+     "qty": 1,
+     "priceNote": "Pack: 2 por 159,99 € (precio tachado 359,99 € poco creíble)",
+     "specs": [
+      [
+       "Material",
+       "Terciopelo; estructura de acero con 4 patas de metal dorado; espuma de alta densidad"
+      ],
+      [
+       "Colores",
+       "Beige, Gris"
+      ],
+      [
+       "Ancho",
+       "59 cm"
+      ],
+      [
+       "Carga máx.",
+       "150 kg"
+      ],
+      [
+       "Verla en",
+       "Conforama marketplace (vendedor tercero, 'Sólo online'): no se puede ver en la tienda de Alcalá de Henares"
+      ]
+     ],
+     "pros": "Patas doradas + terciopelo beige dan un toque glam muy de moda y combinan con madera marrón; carga 150 kg; precio/silla ~80 €",
+     "cons": "Marketplace sin exposición en tienda; ficha poco fiable: la foto principal muestra respaldo trenzado y la descripción habla de respaldo curvado de terciopelo, y da altura 72 cm (dudosa); sin altura de asiento; revisar política de devolución del vendedor",
+     "badge": null
+    },
+    {
+     "id": "silla-clp-silla-de-comedor-giratoria-merlinda-con-reposabrazos-pana-crema-gi",
+     "cat": "sillas",
+     "name": "CLP Merlinda · pana crema",
+     "store": "Amazon.es",
+     "url": "https://www.amazon.es/dp/B0HMFRNGH9",
+     "image": "https://m.media-amazon.com/images/I/716KW2BX+ZL._AC_SL1500_.jpg",
+     "price": 82.9,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Material",
+       "pana fina (75 % algodón, 25 % poliéster) con acolchado en asiento y respaldo; metal negro con protectores de suelo"
+      ],
+      [
+       "Colores",
+       "crema (consultar otras variantes en la ficha)"
+      ],
+      [
+       "Altura asiento",
+       "48 cm"
+      ],
+      [
+       "Ancho",
+       "58 cm"
+      ]
+     ],
+     "pros": "Pana, un tejido de tendencia; reposabrazos a 65 cm del suelo; ligera (8 kg); ficha con medidas completas (58 x 60 x 85 cm, asiento 42 x 45 cm); marca alemana de sillas.",
+     "cons": "Producto nuevo sin valoraciones todavía; la ficha no indica carga máxima; se vende por unidades (4 sillas = unos 330 €).",
+     "badge": null
+    },
+    {
+     "id": "silla-juego-de-2-sillas-giratorias-360-de-terciopelo-con-patas-de-metal-crem",
+     "cat": "sillas",
+     "name": "WOLTU · terciopelo (4 colores)",
+     "store": "Carrefour (marketplace)",
+     "url": "https://www.carrefour.es/juego-de-2-sillas-giratorias-360sillas-de-comedor-de-terciopelosillon-escandinavopatas-de-metalcremawoltu/4063425170518/p",
+     "image": null,
+     "price": 85.0,
+     "qty": 1,
+     "priceNote": "Pack: 2 por 169,99 € (antes 220,99 €) · Precio aproximado (visto en buscador)",
+     "specs": [
+      [
+       "Material",
+       "Terciopelo + metal (patas)"
+      ],
+      [
+       "Colores",
+       "Crema, Negro, Gris oscuro, Verde turco (existe otra ficha en polipiel marrón)"
+      ],
+      [
+       "Ancho",
+       "58.5 cm"
+      ],
+      [
+       "Carga máx.",
+       "120 kg"
+      ],
+      [
+       "Verla en",
+       "No: oferta de tercero online. Hipercor Alcalá de Henares (Av. Juan Carlos I s/n, 28806) existe, pero no hay confirmación de stock/exposición de este modelo"
+      ]
+     ],
+     "pros": "Terciopelo crema + patas metálicas negras: look escandinavo actual, aclara y contrasta con la mesa marrón; ~85 €/silla con brazos",
+     "cons": "No he podido abrir la ficha (403): precio, medidas (58,5x54,5x82,5 cm; brazos a 62,5 cm) y vendedor vienen de snippets de buscador; marketplace; hay variantes con ficha de 120 o 150 kg según color",
+     "badge": null
+    },
+    {
+     "id": "silla-eugad-juego-de-4-sillas-de-comedor-giratorias-360-con-reposabrazos-ter",
+     "cat": "sillas",
+     "name": "EUGAD · terciopelo gris oscuro",
+     "store": "Amazon.es",
+     "url": "https://www.amazon.es/dp/B0CX8VLSDL",
+     "image": "https://m.media-amazon.com/images/I/61xwYKzmtXL._AC_SL1500_.jpg",
+     "price": 85.0,
+     "qty": 1,
+     "priceNote": "Pack: 4 por 339,99 € (85 €/silla)",
+     "specs": [
+      [
+       "Material",
+       "terciopelo con relleno de esponja de alta densidad; patas de metal en cruz"
+      ],
+      [
+       "Colores",
+       "gris oscuro, negro, crema"
+      ],
+      [
+       "Altura asiento",
+       "48.5 cm"
+      ],
+      [
+       "Ancho",
+       "54.5 cm"
+      ],
+      [
+       "Carga máx.",
+       "120 kg"
+      ],
+      [
+       "Opiniones",
+       "4.5 (126)"
+      ]
+     ],
+     "pros": "Marca alemana conocida, 126 opiniones, respaldo y reposabrazos ergonómicos, asiento a 48,5 cm (encaja con mesas de 75 cm), tres colores neutros.",
+     "cons": "Carga máxima 120 kg; la ficha mezcla 'cuero/hierro' en la tabla de material aunque la descripción habla de terciopelo; asiento de 39 x 43,5 cm algo justo.",
+     "badge": null
+    },
+    {
+     "id": "silla-silla-de-comedor-giratoria-bridget-negro-polipiel",
+     "cat": "sillas",
+     "name": "Bridget · polipiel negra",
+     "store": "Conforama",
+     "url": "https://www.conforama.es/silla-de-comedor-giratoria-negro-bridget",
+     "image": "https://media.conforama.es/_prod_/imagenes/media/130999_01.jpg",
+     "price": 99.99,
+     "qty": 1,
+     "priceNote": null,
+     "specs": [
+      [
+       "Material",
+       "Polipiel (PU) negra, asiento espuma 24 kg/m3 y respaldo 20 kg/m3; patas de metal negro"
+      ],
+      [
+       "Colores",
+       "Negro"
+      ],
+      [
+       "Altura asiento",
+       "47 cm"
+      ],
+      [
+       "Ancho",
+       "59 cm"
+      ],
+      [
+       "Carga máx.",
+       "110 kg"
+      ],
+      [
+       "Verla en",
+       "Conforama Alcalá de Henares (C/ Humanes 1, CC La Dehesa, 28805; L-S 10-22h). Ficha con 'Recogida gratis (tienda)'; verificar si hay unidad de exposición"
+      ]
+     ],
+     "pros": "Polipiel fácil de limpiar; look actual y elegante (tipo sillón tapizado con costuras); el negro contrasta bien con madera marrón cálida; brazos a 67 cm que entran bajo la mesa",
+     "cons": "Negro sobre mesa marrón oscura puede resultar pesado; polipiel se calienta/pega en verano; solo 1 color; 110 kg",
+     "badge": null
+    },
+    {
+     "id": "silla-gulsun-de-maison-cephy-lote-de-2-sillas-giratorias-con-reposabrazos-de",
+     "cat": "sillas",
+     "name": "Gulsun · tela beige",
+     "store": "Venta-Unica (Vente-unique)",
+     "url": "https://www.vente-unique.es/p/lote-de-2-sillas-giratorias-con-reposabrazos-de-tela-y-metal-negro-beige-gulsun-de-maison-cephy",
+     "image": "https://cdn1.vente-unique.com/thumbnails/product/1287/1287405/large/0/65910047.webp",
+     "price": 100.0,
+     "qty": 1,
+     "priceNote": "Pack: 2 por 199,99 € (100 €/silla)",
+     "specs": [
+      [
+       "Material",
+       "tela texturizada (poliéster) lavable; base y estructura de metal negro"
+      ],
+      [
+       "Colores",
+       "beige"
+      ],
+      [
+       "Altura asiento",
+       "52 cm"
+      ],
+      [
+       "Ancho",
+       "60 cm"
+      ],
+      [
+       "Carga máx.",
+       "120 kg"
+      ],
+      [
+       "Opiniones",
+       "4.5 (19)"
+      ]
+     ],
+     "pros": "Gira 360° (lo indica la ficha), 'confort excepcional garantizado por el acolchado', tela lavable, reposabrazos a 62,5 cm que permiten meter la silla bajo la mesa.",
+     "cons": "Asiento alto (52 cm); 120 kg; precio en el límite (100 €/silla); pocas opiniones (19); profundidad total 66 cm (ocupa más al sacarla).",
+     "badge": null
+    },
+    {
+     "id": "silla-homcom-juego-de-2-sillas-de-comedor-giratorias-360-terciopelo-gris-neg",
+     "cat": "sillas",
+     "name": "HOMCOM · terciopelo (más barata)",
+     "store": "Conforama (marketplace)",
+     "url": "https://www.conforama.es/sillas-de-comedor-terciopelo-acero-homcom-mkpv222041",
+     "image": "https://media.conforama.es/_prod_/imagenes/media/mkp1638940_01.jpg",
+     "price": 50.99,
+     "qty": 1,
+     "priceNote": "Pack: 2 por 101,99 €",
+     "specs": [
+      [
+       "Material",
+       "Terciopelo (100% poliéster), espuma (8 cm asiento / 7 cm respaldo), patas de acero con tacos regulables y madera contrachapada"
+      ],
+      [
+       "Colores",
+       "Gris, Negro"
+      ],
+      [
+       "Altura asiento",
+       "49.5 cm"
+      ],
+      [
+       "Ancho",
+       "63 cm"
+      ],
+      [
+       "Carga máx.",
+       "120 kg"
+      ],
+      [
+       "Verla en",
+       "Conforama marketplace (vendedor tercero, 'Sólo online'): no se puede ver en la tienda de Alcalá de Henares"
+      ]
+     ],
+     "pros": "Asiento 47x43 cm acolchado grueso y respaldo+reposabrazos integrados (asiento envolvente), 120 kg por silla, precio mínimo",
+     "cons": "Marketplace, sin ver en tienda; los brazos solo 15 cm sobre el asiento; el gris azulado es frío; calidad media-baja a este precio",
+     "badge": null
+    },
+    {
+     "id": "silla-vidaxl-sillas-de-comedor-giratorias-2-uds-terciopelo-10-colores-incl-m",
+     "cat": "sillas",
+     "name": "vidaXL · terciopelo 10 colores (más barata)",
+     "store": "Conforama (marketplace)",
+     "url": "https://www.conforama.es/silla-de-comedor-giratoria",
+     "image": "https://media.conforama.es/_prod_/imagenes/media/mkp1434783_01.jpg",
+     "price": 52.25,
+     "qty": 1,
+     "priceNote": "Pack: 2 por 104,49 € (gris oscuro; antes 135,99 €)",
+     "specs": [
+      [
+       "Material",
+       "Terciopelo 100% poliéster, metal y contrachapado; espuma"
+      ],
+      [
+       "Colores",
+       "Amarillo, Azul, Crema, Gris claro, Gris oscuro, Marrón, Negro, Rojo, Rosa, Verde oscuro"
+      ],
+      [
+       "Altura asiento",
+       "46.5 cm"
+      ],
+      [
+       "Ancho",
+       "54 cm"
+      ],
+      [
+       "Carga máx.",
+       "110 kg"
+      ],
+      [
+       "Verla en",
+       "Conforama marketplace (vendedor tercero, 'Sólo online'): no se puede ver en la tienda de Alcalá de Henares"
+      ]
+     ],
+     "pros": "Mucho color para elegir (crema, gris claro, marrón); terciopelo + 360 confirmado; altura de asiento 46,5 cm; precio muy bajo",
+     "cons": "Gama económica: respaldo bajo (34 cm) y asiento estrecho (41 cm útil), menos 'envolvente'; marketplace sin exposición en tienda",
+     "badge": null
+    },
+    {
+     "id": "silla-tectake-silla-giratoria-con-reposabrazos-terciopelo-crema-respaldo-con",
+     "cat": "sillas",
+     "name": "tectake · terciopelo crema",
+     "store": "Amazon.es",
+     "url": "https://www.amazon.es/dp/B0DFWKTLRY",
+     "image": "https://m.media-amazon.com/images/I/71WKN+mlAPL._AC_SL1500_.jpg",
+     "price": 72.9,
+     "qty": 1,
+     "priceNote": "Pack: 1 silla 72,90 €. Pack 6 gris 362,80 € (60,47 €/silla); tamaños de 1, 2, 4 y 6 sillas en crema, gris y negro",
+     "specs": [
+      [
+       "Material",
+       "terciopelo (poliéster) con acolchado; patas de acero acampanadas con recubrimiento en polvo"
+      ],
+      [
+       "Colores",
+       "crema, gris, negro"
+      ],
+      [
+       "Altura asiento",
+       "49 cm"
+      ],
+      [
+       "Ancho",
+       "58 cm"
+      ],
+      [
+       "Carga máx.",
+       "120 kg"
+      ],
+      [
+       "Opiniones",
+       "4.6 (148)"
+      ]
+     ],
+     "pros": "Marca muy extendida en Amazon, 148 opiniones con 4,6, respaldo continuo envolvente, patas acampanadas de acero, asiento a 49 cm.",
+     "cons": "Ligeramente por debajo del rango de 75 € (72,90 €); 120 kg; reposabrazos de poca altura según ficha; nota compartida con otros tamaños del mismo modelo.",
+     "badge": null
+    },
+    {
+     "id": "silla-conjunto-de-2-sillas-de-comedor-base-giratoria-con-reposabrazos-tapiza",
+     "cat": "sillas",
+     "name": "Evelyn · bouclé y madera (se pasa)",
+     "store": "Carrefour.es (marketplace, vendido por Beliani España)",
+     "url": "https://www.carrefour.es/conjunto-de-2-sillas-de-comedor-base-giratoria-con-reposabrazos-tapizado-de-boucle-patas-de-madera-blanco-crema-evelyn/4069605059710/p",
+     "image": null,
+     "price": 114.99,
+     "qty": 1,
+     "priceNote": "Pack: 2 por 229,99 € (114,99 €/silla; antes 308,99 €) · Precio aproximado (visto en buscador)",
+     "specs": [
+      [
+       "Material",
+       "bouclé (poliéster) con patas de madera"
+      ],
+      [
+       "Colores",
+       "blanco crema"
+      ],
+      [
+       "Altura asiento",
+       "50 cm"
+      ],
+      [
+       "Ancho",
+       "64 cm"
+      ],
+      [
+       "Carga máx.",
+       "100 kg"
+      ]
+     ],
+     "pros": "Es el único bouclé con base giratoria y patas de madera encontrado; reposabrazos a 67 cm; 10 kg por silla.",
+     "cons": "Por encima del presupuesto (115 €/silla); carga máxima solo 100 kg; sin opiniones visibles; el bouclé blanco se ensucia con facilidad.",
+     "badge": null
+    }
+   ]
+  }
+ ],
+ "compat": [
+  {
+   "title": "Peso",
+   "text": "MSI 8 kg + dos pantallas de 27\" (unos 4 kg cada una) + brazos (unos 6 kg) + Mac mini, dock, altavoz, teclado y ratón: unos 25-30 kg. La FlexiSpot E5 aguanta 100 kg y la MITTZON 80 kg: vas sobrado con doble motor. Las de 1 motor y 50-70 kg irían justas, por eso las descarto."
+  },
+  {
+   "title": "Ancho",
+   "text": "Dos pantallas de 27\" juntas miden unos 123 cm y el MSI 94,5 cm. Con una mesa de 160 cm queda margen para el altavoz y la lámpara; con 120 cm las pantallas sobresalen un poco por los lados (con brazos no pasa nada, pero se ve menos limpio)."
+  },
+  {
+   "title": "Pinzas de los brazos",
+   "text": "El ARCTIC X1-3D agarra tableros de 2 a 5,5 cm y el HUANUO de 1,5 a 9 cm. El tablero FlexiSpot de 2,5 cm vale para ambos. Pon los dos brazos en el borde de atrás, con unos 10 cm entre ellos."
+  },
+  {
+   "title": "Cinta de andar",
+   "text": "Para andar hace falta que la mesa suba unos 10-15 cm más que de pie normal: con 125-126 cm de altura máxima (FlexiSpot E5 y MITTZON) llegas sin problema si mides menos de 1,90 m."
+  },
+  {
+   "title": "Las 3 pantallas al Mac mini",
+   "text": "Sin dock: el Mac mini tiene 3 puertos Thunderbolt + 1 HDMI y admite 3 pantallas. MSI 40\" por Thunderbolt con un cable USB-C a DisplayPort (para sus 155 Hz), pantalla 2 por Thunderbolt (un solo cable USB-C si tiene USB-C con vídeo, como la Lenovo L27h-4A) y pantalla 3 por HDMI."
+  },
+  {
+   "title": "El dock Baseus Spacemate",
+   "text": "Sirve, pero no para las pantallas: es la versión con HDMI + DisplayPort (la de Windows). En Mac solo puede extender una pantalla y las demás saldrían duplicadas. Úsalo enchufado al cuarto puerto Thunderbolt para USB, Ethernet, audio y cargar cosas, escondido bajo la mesa."
+  },
+  {
+   "title": "Lo que ya tienes",
+   "text": "Teclado Logitech Signature, Magic Trackpad, ratón vertical TeckNet, barra de luz sobre el monitor y el dock: todo vale tal cual. La barra de luz va encima del MSI, también cuando esté en el brazo."
+  }
+ ],
+ "macTable": null,
+ "macVerdict": null
+}
