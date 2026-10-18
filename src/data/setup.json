@@ -1191,6 +1191,267 @@
    ]
   },
   {
+   "cat": "macs",
+   "title": "Mac",
+   "kicker": "Mac mini o Mac Studio · hasta 3.100 €",
+   "intro": "Hoy Apple vende el Mac mini con M6 o M5 Pro y el Mac Studio con M5 Max o M5 Ultra (los M4 ya no están en su web). Para agentes de IA en local lo que manda es la memoria y su velocidad; para vídeo, la GPU y los motores de vídeo. Tu MacBook Pro actual es un M1 con 8 GB: cualquiera de estos es un salto enorme.",
+   "pick": "Mi elección: Mac mini M5 Pro con 48 GB (2.679 €). El salto de verdad no es mini → Studio sino 24 → 48 GB: pasas de modelos locales de ~14B a ~35B, el tamaño en el que un agente tipo Hermes empieza a ser útil con herramientas. Si tus agentes van a usar sobre todo Claude en la nube, el M5 Pro de 24 GB a 1.966,95 € en Amazon es lo que más da por euro. Para vídeo, compra un SSD externo por Thunderbolt en vez de pagar +330 € por 1 TB.",
+   "items": [
+    {
+     "id": "mac-mini-1",
+     "cat": "macs",
+     "name": "Mac mini M6 · 32 GB · 512 GB",
+     "store": "Apple",
+     "url": "https://www.apple.com/es/shop/buy-mac/mac-mini/chip-m6-cpu-de-12-n%C3%BAcleos-gpu-de-12-n%C3%BAcleos-32-gb-de-memoria-512gb-de-capacidad",
+     "image": null,
+     "price": 1729,
+     "qty": 1,
+     "specs": [
+      [
+       "CPU / GPU",
+       "12 (2 supernúcleos + 4 de rendimiento + 6 de eficiencia) · 12 núcleos GPU"
+      ],
+      [
+       "Memoria",
+       "32 GB a 170 GB/s"
+      ],
+      [
+       "Pantallas",
+       "Hasta 3 externas: dos de hasta 6K a 60 Hz o 4K a 165 Hz + una tercera de hasta 5K a 60 Hz por Thunderbolt o 4K a 60 Hz por HDMI. O 2: una 8K60/5K120/4K240 + otra 5K60 (TB) / 4K60 (HDMI). Hasta 2 desde un solo puerto Thunderbolt (dock)."
+      ],
+      [
+       "Puertos",
+       "Trasera: 3x Thunderbolt 4 (USB-C, 40 Gb/s, salida DisplayPort 1.4), 1x HDMI, Ethernet 2,5 Gb (opcional 10 Gb). Frontal: 2x USB-C USB 3 (10 Gb/s, sin vídeo) + jack 3,5 mm. Sin USB-A. Wi-Fi 7, Bluetooth 6."
+      ],
+      [
+       "IA local",
+       "~24 GB útiles para GPU. Cómodo: modelos 8-14B (Q4/Q8) con 64-128K de contexto; Qwen3.5-9B Q4 (5,3 GB) ≈ 20-25 tok/s estimados. Posible pero justo: gemma4:31b (~20 GB, el modelo que la guía de Hermes recomienda para tool-calling) con contexto recortado, a ≈ 6 tok/s estimados (techo 170/20): demasiado lento para agentes. Ancho de banda (170 GB/s) es el cuello de botella. Para Hermes con Claude en la nube va sobrado."
+      ],
+      [
+       "Vídeo",
+       "4K H.264/HEVC/ProRes fluido en Final Cut/DaVinci; 4K multicámara ligero OK; 8K solo con proxies. Un solo codificador: exportaciones a la par que un M5 Pro. Efectos IA (Magic Mask, escalado) claramente más lentos (12 núcleos GPU). Thunderbolt 4 limita SSD externos a ~40 Gb/s."
+      ]
+     ],
+     "pros": "Opción económica. Por +220 € sobre el de 24 GB (1.509 €) ganas margen para muchas apps y modelos de ~30B, pero el ancho de banda lo hace lento con modelos grandes. Por 238 € más tienes un M5 Pro de 24 GB en Amazon (1.966,95 €), mucho más rápido en todo salvo en RAM. Elígelo solo si el presupuesto es ≤1.750 € y la IA será en la nube.",
+     "cons": null,
+     "badge": null,
+     "priceNote": "Precio oficial de apple.com/es",
+     "offers": []
+    },
+    {
+     "id": "mac-mini-2",
+     "cat": "macs",
+     "name": "Mac mini M5 Pro · 24 GB · 512 GB",
+     "store": "Apple",
+     "url": "https://www.apple.com/es/shop/buy-mac/mac-mini/chip-m5-pro-cpu-de-15-n%C3%BAcleos-gpu-de-16-n%C3%BAcleos-24-gb-de-memoria-512gb-de-capacidad",
+     "image": null,
+     "price": 2019,
+     "qty": 1,
+     "specs": [
+      [
+       "CPU / GPU",
+       "15 (5 supernúcleos + 10 de rendimiento) · 16 núcleos GPU"
+      ],
+      [
+       "Memoria",
+       "24 GB a 307 GB/s"
+      ],
+      [
+       "Pantallas",
+       "Hasta 3 externas en cualquier combinación de Thunderbolt 5 y HDMI: 3x 6K a 60 Hz o 4K a 165 Hz. O 2: una 8K60/5K120/4K240 + otra 5K120/4K200. Hasta 3 desde un solo puerto Thunderbolt 5 (dock)."
+      ],
+      [
+       "Puertos",
+       "Trasera: 3x Thunderbolt 5 (USB-C, 120 Gb/s, salida DisplayPort 2.1), 1x HDMI, Ethernet 2,5 Gb (opcional 10 Gb). Frontal: 2x USB-C USB 3 (10 Gb/s) + jack 3,5 mm. Sin USB-A. Wi-Fi 7, Bluetooth 6."
+      ],
+      [
+       "IA local",
+       "~18 GB útiles para GPU: igual techo de tamaño que un M6 de 24 GB (modelos 8-14B con 64-128K de contexto), pero ~1,8x más rápido generando (307 vs 170 GB/s): Qwen3.5-9B Q4 ≈ 40-45 tok/s estimados. NO cabe gemma4:31b/qwen3.6:35b con el contexto de 64K que exige Hermes. Perfecto si los agentes usan Claude en la nube y lo local es apoyo (embeddings, clasificación, resúmenes)."
+      ],
+      [
+       "Vídeo",
+       "4K multicámara y 8K ProRes con soltura; 16 núcleos de GPU frente a 12 del M6 (Metal del 16c no publicado). Un solo codificador: Fstoppers mide 4K H.265 a ~2,4x tiempo real y 4 exportaciones simultáneas no van más rápido que una. SSD de 512 GB más lento (~6,6 GB/s) que el de 1 TB (~10,8 GB/s, Neoteo); Thunderbolt 5 permite SSD externos muy rápidos para el material."
+      ]
+     ],
+     "pros": "El mejor rendimiento por euro para agentes en la nube + vídeo + multitarea moderada. A 1.966,95 € en Amazon entra en el presupuesto ideal. Su límite son los 24 GB: con un modelo local de 30B + navegador + editor de vídeo abiertos se queda corto.",
+     "cons": null,
+     "badge": "Mejor relación precio",
+     "priceNote": "Mejor precio: 1.966,95 € en Amazon,es",
+     "offers": [
+      {
+       "store": "Amazon.es (vendido y enviado por Amazon, en stock)",
+       "price": 1966.95,
+       "url": "https://www.amazon.es/dp/B0HGGL3M5N"
+      }
+     ]
+    },
+    {
+     "id": "mac-mini-3",
+     "cat": "macs",
+     "name": "Mac mini M5 Pro · 48 GB · 512 GB",
+     "store": "Apple",
+     "url": "https://www.apple.com/es/shop/buy-mac/mac-mini/chip-m5-pro-cpu-de-15-n%C3%BAcleos-gpu-de-16-n%C3%BAcleos-48-gb-de-memoria-512gb-de-capacidad",
+     "image": null,
+     "price": 2679,
+     "qty": 1,
+     "specs": [
+      [
+       "CPU / GPU",
+       "15 (5 supernúcleos + 10 de rendimiento) · 16 núcleos GPU"
+      ],
+      [
+       "Memoria",
+       "48 GB a 307 GB/s"
+      ],
+      [
+       "Pantallas",
+       "Hasta 3 externas en cualquier combinación de Thunderbolt 5 y HDMI: 3x 6K a 60 Hz o 4K a 165 Hz. O 2: una 8K60/5K120/4K240 + otra 5K120/4K200. Hasta 3 desde un solo puerto Thunderbolt 5 (dock)."
+      ],
+      [
+       "Puertos",
+       "Trasera: 3x Thunderbolt 5 (USB-C, 120 Gb/s, salida DisplayPort 2.1), 1x HDMI, Ethernet 2,5 Gb (opcional 10 Gb). Frontal: 2x USB-C USB 3 (10 Gb/s) + jack 3,5 mm. Sin USB-A. Wi-Fi 7, Bluetooth 6."
+      ],
+      [
+       "IA local",
+       "~36 GB útiles para GPU (ampliable a ~40 GB). Cómodo: modelos 27-35B en Q4 con 64K de contexto (gemma4:31b ~20 GB, qwen3.6:35b ~24 GB) a ≈ 10-12 tok/s estimados en modelos densos, mucho más en modelos MoE. O dos modelos a la vez (p. ej. 9B rápido + 31B). 70B Q4 (~40 GB) no cabe con holgura: para eso hace falta 64 GB (3.119 €) y aun así iría lento (~5-6 tok/s)."
+      ],
+      [
+       "Vídeo",
+       "Igual que mini-2 en exportación, pero los 48 GB permiten timelines 4K/8K largas, Resolve con efectos IA y muchas apps abiertas sin swap."
+      ]
+     ],
+     "pros": "El 'salto real' del coste de oportunidad: +660 € sobre mini-2 duplica la RAM y pasa de modelos ~14B a ~30-35B, que es donde un agente local empieza a ser útil con tool-calling. Mejor compra global para este perfil si quiere de verdad la opción local.",
+     "cons": null,
+     "badge": "Recomendado",
+     "priceNote": "Precio oficial de apple.com/es",
+     "offers": []
+    },
+    {
+     "id": "mac-mini-4",
+     "cat": "macs",
+     "name": "Mac mini M5 Pro (18/20) · 48 GB · 512 GB",
+     "store": "Apple",
+     "url": "https://www.apple.com/es/shop/buy-mac/mac-mini/chip-m5-pro-cpu-de-18-n%C3%BAcleos-gpu-de-20-n%C3%BAcleos-48-gb-de-memoria-512gb-de-capacidad",
+     "image": null,
+     "price": 2899,
+     "qty": 1,
+     "specs": [
+      [
+       "CPU / GPU",
+       "18 (6 supernúcleos + 12 de rendimiento) · 20 núcleos GPU"
+      ],
+      [
+       "Memoria",
+       "48 GB a 307 GB/s"
+      ],
+      [
+       "Pantallas",
+       "Hasta 3 externas en cualquier combinación de Thunderbolt 5 y HDMI: 3x 6K a 60 Hz o 4K a 165 Hz. O 2: una 8K60/5K120/4K240 + otra 5K120/4K200. Hasta 3 desde un solo puerto Thunderbolt 5 (dock)."
+      ],
+      [
+       "Puertos",
+       "Trasera: 3x Thunderbolt 5 (USB-C, 120 Gb/s, salida DisplayPort 2.1), 1x HDMI, Ethernet 2,5 Gb (opcional 10 Gb). Frontal: 2x USB-C USB 3 (10 Gb/s) + jack 3,5 mm. Sin USB-A. Wi-Fi 7, Bluetooth 6."
+      ],
+      [
+       "IA local",
+       "Misma capacidad que mini-3 (~36 GB útiles) y mismo ancho de banda (307 GB/s), así que genera tokens a la misma velocidad; los 4 núcleos GPU extra aceleran el procesado del prompt (~+25%), útil con contextos largos de agente."
+      ],
+      [
+       "Vídeo",
+       "+25% de núcleos GPU (20 vs 16) y ~+12% CPU multinúcleo (29.137 vs ~25.900) frente al 15/16: efectos, color y render algo más rápidos. Sigue con un solo codificador de vídeo."
+      ]
+     ],
+     "pros": "+220 € sobre mini-3 por ~12-25% más de rendimiento: compensa solo si el vídeo pesa mucho. Está a 130 € del Mac Studio M5 Max (3.029 €), que tiene GPU 1,6x, 1,5x de ancho de banda y doble codificador, pero 12 GB menos de RAM. A este precio la decisión ya no es mini vs Studio por potencia, sino RAM (mini) vs GPU/vídeo (Studio).",
+     "cons": null,
+     "badge": null,
+     "priceNote": "Precio oficial de apple.com/es",
+     "offers": []
+    },
+    {
+     "id": "mac-studio-1",
+     "cat": "macs",
+     "name": "Mac Studio M5 Max · 36 GB · 512 GB",
+     "store": "Apple",
+     "url": "https://www.apple.com/es/shop/buy-mac/mac-studio/chip-m5-max-cpu-de-18-n%C3%BAcleos-gpu-de-32-n%C3%BAcleos-36-gb-de-memoria-512gb-de-capacidad",
+     "image": null,
+     "price": 3029,
+     "qty": 1,
+     "specs": [
+      [
+       "CPU / GPU",
+       "18 (6 supernúcleos + 12 de rendimiento) · 32 núcleos GPU"
+      ],
+      [
+       "Memoria",
+       "36 GB a 460 GB/s"
+      ],
+      [
+       "Pantallas",
+       "Hasta 5 externas: 4x 6K60/4K165 + una 5K60 por HDMI; o 3: dos 8K60/5K120/4K240 + una 5K60 por HDMI. Hasta 4 desde un solo puerto TB5."
+      ],
+      [
+       "Puertos",
+       "Trasera: 4x Thunderbolt 5 (120 Gb/s, DisplayPort 2.1), 2x USB-A (5 Gb/s), HDMI 2.1, Ethernet 10 Gb de serie, jack 3,5 mm. Frontal: 2x USB-C (10 Gb/s) + ranura SDXC UHS-II. Wi-Fi 7, Bluetooth 6."
+      ],
+      [
+       "IA local",
+       "~27 GB útiles para GPU: cabe gemma4:31b Q4 con 64K de contexto (KV cuantizada), justo; no caben 35B con contexto largo como en el mini de 48 GB. En lo que cabe es ~1,5x más rápido que cualquier M5 Pro (460 vs 307 GB/s): ≈ 16-18 tok/s estimados en un 31B denso, ≈ 60-65 tok/s en un 9B."
+      ],
+      [
+       "Vídeo",
+       "La gran diferencia: 2 codificadores + 2 motores ProRes (exportaciones H.264/HEVC/ProRes ~2x cuando el codificador es el cuello de botella y exportaciones en paralelo), GPU de 32 núcleos y mejor refrigeración sostenida. Apple: Magic Mask de DaVinci hasta 3x vs M4 Max. Ranura SD, 10 GbE de serie y 2 USB-A ahorran adaptadores."
+      ]
+     ],
+     "pros": "Solo compensa si la edición de vídeo (exportes frecuentes, multicámara, efectos IA en Resolve) es lo que da dinero. Para agentes e IA local, el mini M5 Pro de 48 GB (2.679 €) ofrece más RAM por 350 € menos. Agota el presupuesto máximo sin dejar margen para SSD externo, cables o AppleCare.",
+     "cons": null,
+     "badge": "Solo si el vídeo es tu negocio",
+     "priceNote": "Precio oficial de apple.com/es",
+     "offers": []
+    },
+    {
+     "id": "mac-studio-2",
+     "cat": "macs",
+     "name": "Mac Studio M5 Max (40 GPU) · 48 GB · 512 GB",
+     "store": "Apple",
+     "url": "https://www.apple.com/es/shop/buy-mac/mac-studio/chip-m5-max-cpu-de-18-n%C3%BAcleos-gpu-de-40-n%C3%BAcleos-48-gb-de-memoria-512gb-de-capacidad",
+     "image": null,
+     "price": 3689,
+     "qty": 1,
+     "specs": [
+      [
+       "CPU / GPU",
+       "18 (6 supernúcleos + 12 de rendimiento) · 40 núcleos GPU"
+      ],
+      [
+       "Memoria",
+       "48 GB a 614 GB/s"
+      ],
+      [
+       "Pantallas",
+       "Hasta 5 externas: 4x 6K60/4K165 + una 5K60 por HDMI; o 3: dos 8K60/5K120/4K240 + una 5K60 por HDMI. Hasta 4 desde un solo puerto TB5."
+      ],
+      [
+       "Puertos",
+       "Trasera: 4x Thunderbolt 5 (120 Gb/s, DisplayPort 2.1), 2x USB-A (5 Gb/s), HDMI 2.1, Ethernet 10 Gb de serie, jack 3,5 mm. Frontal: 2x USB-C (10 Gb/s) + ranura SDXC UHS-II. Wi-Fi 7, Bluetooth 6."
+      ],
+      [
+       "IA local",
+       "FUERA DE PRESUPUESTO (+589 € sobre el máximo). Misma capacidad que un mini de 48 GB pero el doble de ancho de banda (614 GB/s): ≈ 22-25 tok/s estimados en un 31B denso. Referencia medida: Qwen3.5-9B a 70 tok/s (llama.cpp) / 96 tok/s (MLX) en un M5 Max 128 GB (guía Hermes)."
+      ],
+      [
+       "Vídeo",
+       "GPU 40 núcleos (~1,6x M5 Pro 20c en Metal) + doble codificador. HandBrake 4K HEVC de 10 min en 3 min 36 s (Geek Culture)."
+      ]
+     ],
+     "pros": "Referencia de lo que compra el siguiente escalón: es el Studio 'equilibrado', pero cuesta 790 € más que el mini 18/20 de 48 GB y supera los 3.100 €. No recomendado con este presupuesto.",
+     "cons": null,
+     "badge": "Se pasa del presupuesto",
+     "priceNote": "Precio oficial de apple.com/es",
+     "offers": []
+    }
+   ]
+  },
+  {
    "cat": "sillas",
    "title": "Sillas del salón",
    "kicker": "Giratorias 360° · con brazos · 75–100 €",
@@ -1839,7 +2100,7 @@
   },
   {
    "title": "Las 3 pantallas al Mac mini",
-   "text": "Sin dock: el Mac mini tiene 3 puertos Thunderbolt + 1 HDMI y admite 3 pantallas. MSI 40\" por Thunderbolt con un cable USB-C a DisplayPort (para sus 155 Hz), pantalla 2 por Thunderbolt (un solo cable USB-C si tiene USB-C con vídeo, como la Lenovo L27h-4A) y pantalla 3 por HDMI."
+   "text": "Sin dock: cualquier Mac mini actual tiene 3 Thunderbolt + 1 HDMI y admite 3 pantallas. MSI 40\" por Thunderbolt con un cable USB-C a DisplayPort (por HDMI se queda en 100 Hz), pantalla 2 por Thunderbolt (un solo cable si tiene USB-C con vídeo, como la Lenovo L27h-4A) y pantalla 3 por HDMI. Los USB-C de delante no sacan vídeo. Necesitas uno o dos cables USB-C de 15–30 €."
   },
   {
    "title": "El dock Baseus Spacemate",
@@ -1850,6 +2111,65 @@
    "text": "Teclado Logitech Signature, Magic Trackpad, ratón vertical TeckNet, barra de luz sobre el monitor y el dock: todo vale tal cual. La barra de luz va encima del MSI, también cuando esté en el brazo."
   }
  ],
- "macTable": null,
- "macVerdict": null
+ "macTable": {
+  "columns": [
+   "Opción",
+   "Precio",
+   "Chip",
+   "Memoria (velocidad)",
+   "IA local",
+   "Para ti"
+  ],
+  "rows": [
+   [
+    "Mac mini M6 · 32 GB",
+    "1.729 €",
+    "M6 · 12 CPU / 12 GPU",
+    "32 GB (170 GB/s)",
+    "Modelos de 8–14B cómodos; 31B justo y lento",
+    "Barato, pero memoria lenta para IA"
+   ],
+   [
+    "Mac mini M5 Pro · 24 GB",
+    "1.966,95 € (Amazon)",
+    "M5 Pro · 15 CPU / 16 GPU",
+    "24 GB (307 GB/s)",
+    "8–14B, ~1,8× más rápido que el M6",
+    "Lo que más da por euro si usas IA en la nube"
+   ],
+   [
+    "Mac mini M5 Pro · 48 GB",
+    "2.679 €",
+    "M5 Pro · 15 CPU / 16 GPU",
+    "48 GB (307 GB/s)",
+    "27–35B con contexto largo (~10–12 tokens/s)",
+    "Recomendado: el salto útil para agentes locales"
+   ],
+   [
+    "Mac mini M5 Pro 18/20 · 48 GB",
+    "2.899 €",
+    "M5 Pro · 18 CPU / 20 GPU",
+    "48 GB (307 GB/s)",
+    "Igual que el anterior, algo más rápido procesando",
+    "+220 € que no compensan"
+   ],
+   [
+    "Mac Studio M5 Max · 36 GB",
+    "3.029 €",
+    "M5 Max · 18 CPU / 32 GPU",
+    "36 GB (460 GB/s)",
+    "31B justo, ~1,5× más rápido",
+    "Solo si editar vídeo es tu negocio (doble codificador)"
+   ],
+   [
+    "Mac Studio M5 Max · 48 GB",
+    "3.689 €",
+    "M5 Max · 18 CPU / 40 GPU",
+    "48 GB (614 GB/s)",
+    "31B a ~22–25 tokens/s",
+    "Se pasa de los 3.100 €"
+   ]
+  ]
+ },
+ "macVerdict": "Coste de oportunidad: de 24 a 48 GB en el Mac mini M5 Pro son +660 € y es el salto que más cambia lo que puedes hacer (modelos de IA locales el doble de grandes). Pasar del mini de 48 GB al Mac Studio más barato cuesta +350 € pero te deja con menos memoria (36 GB): más GPU para vídeo, peor para IA local. Las tres pantallas funcionan en todos sin dock. Velocidades de IA estimadas a partir del ancho de banda; la puntuación del M6 es previa al lanzamiento."
 }
